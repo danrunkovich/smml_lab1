@@ -7,7 +7,7 @@ import os
 
 
 def main() -> None:
-    json_path = "../../dataset/audi_a6_dataset_final.json"
+    json_path = "../../dataset/audi_a6_dataset_input.json"
     if not os.path.exists(json_path):
         print(f"ERROR --> file {json_path} not found")
         return

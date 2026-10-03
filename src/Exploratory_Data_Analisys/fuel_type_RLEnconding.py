@@ -4,7 +4,6 @@ import openpyxl
 
 
 def main() -> None:
-    # 1. Поиск исходного JSON файла
     json_path = "../../dataset/audi_a6_dataset_input.json"
     if not os.path.exists(json_path):
         print(f"ОШИБКА: Файл {json_path} не найден!")

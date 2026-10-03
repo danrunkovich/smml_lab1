@@ -71,9 +71,6 @@ def main() -> None:
 
     corr_matrix = active_transformed_df.corr()
 
-    #sorted_features = corr_matrix["scaled_price"].sort_values(ascending=False).index
-    #sorted_corr_matrix = corr_matrix.loc[sorted_features, sorted_features]
-
     plt.figure(figsize=(12, 10))
     sns.heatmap(
         corr_matrix,
