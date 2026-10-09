@@ -14,7 +14,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":1.0,
-    "scaled_log_price":0.9514730941
+    "log_price":16.0127351353
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132345926-0d823fab\/",
@@ -31,7 +31,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":1.0,
-    "scaled_log_price":0.9366541259
+    "log_price":15.948966688
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133909311-2cf2bd2e\/",
@@ -48,7 +48,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7510422609
+    "log_price":15.1502484322
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134113974-c07d0559\/",
@@ -65,7 +65,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5471740697
+    "log_price":14.2729702145
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130066929-ee28d3bc\/",
@@ -82,7 +82,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3221570059
+    "log_price":13.3046849342
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1123351927-0c82d9c0\/",
@@ -99,7 +99,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.3579796442
+    "log_price":13.458835614
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129414973-4b946cb2\/",
@@ -116,7 +116,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3182512474
+    "log_price":13.2878778159
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129196678-3bc8f12d\/",
@@ -133,7 +133,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4630151822
+    "log_price":13.9108207378
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134125153-ab8f73f8\/",
@@ -150,7 +150,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4240018235
+    "log_price":13.7429398651
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132999314-f133cbf3\/",
@@ -167,7 +167,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.3579796442
+    "log_price":13.458835614
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133564741-b5c3c616\/",
@@ -184,7 +184,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.4046127857
+    "log_price":13.6595056601
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134175143-b9bc2e53\/",
@@ -201,7 +201,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.68013665
+    "log_price":14.8451299751
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132466000-0424b662\/",
@@ -218,7 +218,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.8212890625,
-    "scaled_log_price":0.7898776006
+    "log_price":15.3173632597
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131269751-79146ef2\/",
@@ -235,7 +235,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.8212890625,
-    "scaled_log_price":0.8344788217
+    "log_price":15.5092896188
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132816746-6d2618b4\/",
@@ -252,7 +252,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":1.0,
-    "scaled_log_price":0.8979979693
+    "log_price":15.7826229147
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134071073-e1184606\/",
@@ -269,7 +269,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":1.0,
-    "scaled_log_price":0.8859925199
+    "log_price":15.7309614995
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134049912-f39cd14a\/",
@@ -286,7 +286,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.765625,
-    "scaled_log_price":0.7949964675
+    "log_price":15.339390582
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133887014-c8c52110\/",
@@ -303,7 +303,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":1.0,
-    "scaled_log_price":0.9406378474
+    "log_price":15.966109294
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134174577-4fb38446\/",
@@ -320,7 +320,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7715784209
+    "log_price":15.2386188922
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134171532-71e14aef\/",
@@ -337,7 +337,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.765625,
-    "scaled_log_price":0.8758491075
+    "log_price":15.6873127349
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134077637-3574135d\/",
@@ -354,7 +354,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.6131723441
+    "log_price":14.5569715988
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133952060-3bc94af1\/",
@@ -371,7 +371,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7378924775
+    "log_price":15.0936627605
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133252448-3a4884f9\/",
@@ -388,7 +388,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6203668926
+    "log_price":14.5879309194
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132374886-6ecdc77f\/",
@@ -405,7 +405,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":1.0,
-    "scaled_log_price":0.9514730941
+    "log_price":16.0127351353
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127976875-8a948f17\/",
@@ -422,7 +422,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7715784209
+    "log_price":15.2386188922
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131768741-0b15185c\/",
@@ -439,7 +439,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.4408663205
+    "log_price":13.815510558
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129634112-c38db8b3\/",
@@ -456,7 +456,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4289464176
+    "log_price":13.7642172636
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128412490-7f9461d0\/",
@@ -473,7 +473,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.452204528
+    "log_price":13.8643007221
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134164574-df18410f\/",
@@ -490,7 +490,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.4773519754
+    "log_price":13.9725143068
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133934893-64d598e6\/",
@@ -507,7 +507,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.3019366793
+    "log_price":13.2176735572
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1122057334-d5266429\/",
@@ -524,7 +524,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.3831270915
+    "log_price":13.5670491987
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132615854-eb557bb9\/",
@@ -541,7 +541,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.4477354065
+    "log_price":13.8450693602
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134003885-c7e07df6\/",
@@ -558,7 +558,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.452204528
+    "log_price":13.8643007221
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133828971-456d93bc\/",
@@ -575,7 +575,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.5053843705
+    "log_price":14.0931422946
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132236910-5e04eff7\/",
@@ -592,7 +592,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.3740127014
+    "log_price":13.5278284855
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129132044-de456e50\/",
@@ -609,7 +609,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.4252478702
+    "log_price":13.7483018083
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133302006-57d794f3\/",
@@ -626,7 +626,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.4163818898
+    "log_price":13.7101500423
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133353341-d8d7dfa5\/",
@@ -643,7 +643,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.473345201
+    "log_price":13.9552725003
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133524534-a28a9521\/",
@@ -660,7 +660,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.481290835
+    "log_price":13.9894638651
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130464227-b01af159\/",
@@ -677,7 +677,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.4408663205
+    "log_price":13.815510558
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130406223-2b2f510e\/",
@@ -694,7 +694,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2197265625,
-    "scaled_log_price":0.3890106249
+    "log_price":13.5923670067
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127247647-c693579a\/",
@@ -711,7 +711,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.5018364061
+    "log_price":14.0778748224
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131619144-bdb3b189\/",
@@ -728,7 +728,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.5500891278
+    "log_price":14.2855141872
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126014128-7ac340cb\/",
@@ -745,7 +745,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5157143893
+    "log_price":14.1375940571
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133556718-3a3f824d\/",
@@ -762,7 +762,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5427111381
+    "log_price":14.2537654889
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133337141-92dfb800\/",
@@ -779,7 +779,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.09765625,
-    "scaled_log_price":0.452204528
+    "log_price":13.8643007221
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1116563978-53532323\/",
@@ -796,7 +796,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3019366793
+    "log_price":13.2176735572
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133976742-fa40c575\/",
@@ -813,7 +813,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5018364061
+    "log_price":14.0778748224
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134126237-5a8c9b4f\/",
@@ -830,7 +830,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5272129191
+    "log_price":14.1870741144
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132618385-392b7e51\/",
@@ -847,7 +847,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.4958611831
+    "log_price":14.0521624593
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132303080-116dadb0\/",
@@ -864,7 +864,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4030990084
+    "log_price":13.6529916285
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134104255-177c28f1\/",
@@ -881,7 +881,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.4030990084
+    "log_price":13.6529916285
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133091836-18bd2995\/",
@@ -898,7 +898,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.528810088
+    "log_price":14.1939469937
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134041288-71ab1fd8\/",
@@ -915,7 +915,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.4832355088
+    "log_price":13.9978321148
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133624263-5442cff9\/",
@@ -932,7 +932,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.3546358864
+    "log_price":13.4444468766
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133833451-3be440dd\/",
@@ -949,7 +949,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.3708933639
+    "log_price":13.5144054652
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133620368-e84c88d8\/",
@@ -966,7 +966,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.4289464176
+    "log_price":13.7642172636
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133696787-3cd546ef\/",
@@ -983,7 +983,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5425611625
+    "log_price":14.2531201194
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126555142-85076ee4\/",
@@ -1000,7 +1000,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.4832355088
+    "log_price":13.9978321148
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1124029204-d6e1607e\/",
@@ -1017,7 +1017,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0009765625,
-    "scaled_log_price":0.1969011412
+    "log_price":12.7656884335
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1122897634-7c584934\/",
@@ -1034,7 +1034,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5272129191
+    "log_price":14.1870741144
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131043770-45b9d4f1\/",
@@ -1051,7 +1051,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.4028254508
+    "log_price":13.6518144653
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133469572-b884d3fc\/",
@@ -1068,7 +1068,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5641775114
+    "log_price":14.346138809
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133583161-4e9264d6\/",
@@ -1085,7 +1085,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5471659804
+    "log_price":14.272935405
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132647613-de7fbb86\/",
@@ -1102,7 +1102,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.4630151822
+    "log_price":13.9108207378
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133637583-e956ed1f\/",
@@ -1119,7 +1119,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.2634225413
+    "log_price":13.0519409131
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132765985-5d32c12c\/",
@@ -1136,7 +1136,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.3221570059
+    "log_price":13.3046849342
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131799792-8409cf9f\/",
@@ -1153,7 +1153,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.3961615632
+    "log_price":13.6231386653
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1102999498-426ab7eb\/",
@@ -1170,7 +1170,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5470188534
+    "log_price":14.2723022932
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134136450-76b03881\/",
@@ -1187,7 +1187,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3831270915
+    "log_price":13.5670491987
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134186988-dec90f15\/",
@@ -1204,7 +1204,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5709138427
+    "log_price":14.3751263459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134020031-8ecb194b\/",
@@ -1221,7 +1221,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.5641775114
+    "log_price":14.346138809
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130297195-b4d78fdf\/",
@@ -1238,7 +1238,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.3860874775
+    "log_price":13.5797882244
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133236971-bd9cce0e\/",
@@ -1255,7 +1255,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.4544291887
+    "log_price":13.8738738013
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133197641-49cc8d02\/",
@@ -1272,7 +1272,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.481290835
+    "log_price":13.9894638651
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134166216-6d1e1b49\/",
@@ -1289,7 +1289,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.3478004772
+    "log_price":13.4150329914
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127828180-1d477072\/",
@@ -1306,7 +1306,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5427111381
+    "log_price":14.2537654889
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131864338-97a5b712\/",
@@ -1323,7 +1323,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.5572400661
+    "log_price":14.3162858459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133672337-d072e0ed\/",
@@ -1340,7 +1340,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5140242934
+    "log_price":14.1303212978
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127962692-ca0bcf2f\/",
@@ -1357,7 +1357,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.3629067649
+    "log_price":13.4800378217
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128184382-95dd7f00\/",
@@ -1374,7 +1374,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.552975962
+    "log_price":14.2979367072
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132581709-c71536b1\/",
@@ -1391,7 +1391,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.473345201
+    "log_price":13.9552725003
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133772363-59b3a45b\/",
@@ -1408,7 +1408,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.3478004772
+    "log_price":13.4150329914
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127941010-e362cec0\/",
@@ -1425,7 +1425,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.4408663205
+    "log_price":13.815510558
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127730456-3f0ff27e\/",
@@ -1442,7 +1442,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5190581471
+    "log_price":14.1519827946
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132865600-4da1d126\/",
@@ -1459,7 +1459,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.2797878176
+    "log_price":13.1223633774
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132552570-f4949a1e\/",
@@ -1476,7 +1476,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5350912044
+    "log_price":14.2209756661
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1125222921-3aec4406\/",
@@ -1493,7 +1493,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.09765625,
-    "scaled_log_price":0.4630151822
+    "log_price":13.9108207378
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127888759-ffbe335b\/",
@@ -1510,7 +1510,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5350910494
+    "log_price":14.2209749994
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129516684-a786430a\/",
@@ -1527,7 +1527,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3890106249
+    "log_price":13.5923670067
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133100971-3997272e\/",
@@ -1544,7 +1544,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3629067649
+    "log_price":13.4800378217
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130316083-1e90f795\/",
@@ -1561,7 +1561,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.4830417721
+    "log_price":13.996998434
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131716737-a4b1ddfd\/",
@@ -1578,7 +1578,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.473345201
+    "log_price":13.9552725003
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130287287-391ed1c5\/",
@@ -1595,7 +1595,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5614273354
+    "log_price":14.3343043514
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127617763-61e5b569\/",
@@ -1612,7 +1612,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0791015625,
-    "scaled_log_price":0.3407579032
+    "log_price":13.3847276419
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133416196-95c8ca59\/",
@@ -1629,7 +1629,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3142787206
+    "log_price":13.2707833825
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133846716-2eaa6b28\/",
@@ -1646,7 +1646,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5190581471
+    "log_price":14.1519827946
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133452943-267e58f0\/",
@@ -1663,7 +1663,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.310237103
+    "log_price":13.2533916398
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133700967-df915df1\/",
@@ -1680,7 +1680,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.4085036045
+    "log_price":13.6762484906
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134030095-41181201\/",
@@ -1697,7 +1697,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5593431317
+    "log_price":14.3253356814
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1119503364-0efdf753\/",
@@ -1714,7 +1714,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.09765625,
-    "scaled_log_price":0.452204528
+    "log_price":13.8643007221
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134028841-9e857320\/",
@@ -1731,7 +1731,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5350912044
+    "log_price":14.2209756661
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129877902-1e8b73ca\/",
@@ -1748,7 +1748,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5800282327
+    "log_price":14.4143470591
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132726981-4c8d136c\/",
@@ -1765,7 +1765,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5500891278
+    "log_price":14.2855141872
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132636871-8f65c803\/",
@@ -1782,7 +1782,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5190581471
+    "log_price":14.1519827946
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132515517-40cae125\/",
@@ -1799,7 +1799,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.3407579032
+    "log_price":13.3847276419
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130550892-af41a553\/",
@@ -1816,7 +1816,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0791015625,
-    "scaled_log_price":0.2420205055
+    "log_price":12.9598444479
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133750985-66b24a0e\/",
@@ -1833,7 +1833,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5722379896
+    "log_price":14.380824367
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131881335-4a812487\/",
@@ -1850,7 +1850,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.452204528
+    "log_price":13.8643007221
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131475926-1b57ab82\/",
@@ -1867,7 +1867,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.4227490595
+    "log_price":13.7375490165
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132102861-6360df40\/",
@@ -1884,7 +1884,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3737026451
+    "log_price":13.5264942625
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1075858553-4070\/",
@@ -1901,7 +1901,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.5190581471
+    "log_price":14.1519827946
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133241036-1cba4279\/",
@@ -1918,7 +1918,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.5774603927
+    "log_price":14.4032972229
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129754994-20a0dc3b\/",
@@ -1935,7 +1935,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3240855411
+    "log_price":13.312983737
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132917929-64aa4dd9\/",
@@ -1952,7 +1952,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4385307515
+    "log_price":13.8054602221
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133946524-530ab7d1\/",
@@ -1969,7 +1969,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.4541879298
+    "log_price":13.8728356246
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134184729-884faab5\/",
@@ -1986,7 +1986,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5731604235
+    "log_price":14.3847937513
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133124139-e5e0b37d\/",
@@ -2003,7 +2003,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5572400661
+    "log_price":14.3162858459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1125688231-458c3c79\/",
@@ -2020,7 +2020,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5427111381
+    "log_price":14.2537654889
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131829726-fe96d789\/",
@@ -2037,7 +2037,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5838275624
+    "log_price":14.4306961971
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131441977-ee857c4a\/",
@@ -2054,7 +2054,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5500891278
+    "log_price":14.2855141872
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133189074-402a4942\/",
@@ -2071,7 +2071,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4058170179
+    "log_price":13.6646876682
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133497884-79c062f3\/",
@@ -2088,7 +2088,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4137853582
+    "log_price":13.6989767417
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133529049-a572aaa0\/",
@@ -2105,7 +2105,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5427111381
+    "log_price":14.2537654889
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134082162-8cbe76e0\/",
@@ -2122,7 +2122,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5427111381
+    "log_price":14.2537654889
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131538078-46e59bac\/",
@@ -2139,7 +2139,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3478004772
+    "log_price":13.4150329914
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132077989-f0e3e158\/",
@@ -2156,7 +2156,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5572400661
+    "log_price":14.3162858459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131124149-414c5423\/",
@@ -2173,7 +2173,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.4030990084
+    "log_price":13.6529916285
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134059190-2f600805\/",
@@ -2190,7 +2190,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.5500891278
+    "log_price":14.2855141872
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1125819462-e8df18dd\/",
@@ -2207,7 +2207,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5900249205
+    "log_price":14.4573644441
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130540534-6ef51e26\/",
@@ -2224,7 +2224,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5628064917
+    "log_price":14.3402390869
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131522835-a5490935\/",
@@ -2241,7 +2241,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5427111381
+    "log_price":14.2537654889
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133698182-e3831393\/",
@@ -2258,7 +2258,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.5500891278
+    "log_price":14.2855141872
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133542068-01f3d88b\/",
@@ -2275,7 +2275,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.03515625,
-    "scaled_log_price":0.1969011412
+    "log_price":12.7656884335
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133949858-8aadcdf1\/",
@@ -2292,7 +2292,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5668955208
+    "log_price":14.3578348488
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132652769-63f0b500\/",
@@ -2309,7 +2309,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5544060413
+    "log_price":14.3040905728
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131924966-0962bb3b\/",
@@ -2326,7 +2326,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5774603927
+    "log_price":14.4032972229
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132523766-90a43165\/",
@@ -2343,7 +2343,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.4030990084
+    "log_price":13.6529916285
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133596544-1806cbe8\/",
@@ -2360,7 +2360,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.5875657742
+    "log_price":14.4467823348
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133602810-764373c4\/",
@@ -2377,7 +2377,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.03515625,
-    "scaled_log_price":0.1450454456
+    "log_price":12.5425448822
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133771393-3d6bd314\/",
@@ -2394,7 +2394,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0244140625,
-    "scaled_log_price":0.029086307
+    "log_price":12.043553716
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1124415272-c46ab923\/",
@@ -2411,7 +2411,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.5018364061
+    "log_price":14.0778748224
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133183072-c2c1593b\/",
@@ -2428,7 +2428,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.00390625,
-    "scaled_log_price":0.3546358864
+    "log_price":13.4444468766
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1125016081-ec9100ad\/",
@@ -2445,7 +2445,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.3890106249
+    "log_price":13.5923670067
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126945738-b74ab523\/",
@@ -2462,7 +2462,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5500891278
+    "log_price":14.2855141872
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133772966-dd44b005\/",
@@ -2479,7 +2479,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5709138427
+    "log_price":14.3751263459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133880522-f9dd1ccf\/",
@@ -2496,7 +2496,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5813015902
+    "log_price":14.4198265248
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126286530-846f81a8\/",
@@ -2513,7 +2513,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.473345201
+    "log_price":13.9552725003
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128580138-93888509\/",
@@ -2530,7 +2530,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.015625,
-    "scaled_log_price":0.1278237047
+    "log_price":12.46843691
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133608459-08159023\/",
@@ -2547,7 +2547,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5272129191
+    "log_price":14.1870741144
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133739822-0382e641\/",
@@ -2564,7 +2564,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5335367694
+    "log_price":14.2142866779
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1092817374-be2af654\/",
@@ -2581,7 +2581,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5641773747
+    "log_price":14.3461382208
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132172816-00125310\/",
@@ -2598,7 +2598,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.5923372496
+    "log_price":14.467314775
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130464468-5a3d48e6\/",
@@ -2615,7 +2615,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.4289464176
+    "log_price":13.7642172636
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133279609-959046fe\/",
@@ -2632,7 +2632,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.5900249205
+    "log_price":14.4573644441
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1125775577-11c030d8\/",
@@ -2649,7 +2649,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.3512433129
+    "log_price":13.4298480772
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129181744-8b3c62f3\/",
@@ -2666,7 +2666,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5572400661
+    "log_price":14.3162858459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133137318-33863fc8\/",
@@ -2683,7 +2683,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5486321503
+    "log_price":14.2792445742
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133128891-6aec80a2\/",
@@ -2700,7 +2700,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5640407728
+    "log_price":14.3455504007
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1125336108-ea6c77a1\/",
@@ -2717,7 +2717,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.4927220161
+    "log_price":14.0386541093
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1125249486-6c6d1c7a\/",
@@ -2734,7 +2734,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.09765625,
-    "scaled_log_price":0.3740127014
+    "log_price":13.5278284855
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132928380-794a6854\/",
@@ -2751,7 +2751,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.4030990084
+    "log_price":13.6529916285
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133689473-c3996c11\/",
@@ -2768,7 +2768,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5900249205
+    "log_price":14.4573644441
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133643828-f026c8a0\/",
@@ -2785,7 +2785,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.3740127014
+    "log_price":13.5278284855
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133049942-49f9a691\/",
@@ -2802,7 +2802,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0625,
-    "scaled_log_price":0.3334952134
+    "log_price":13.3534750984
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127018053-41b63891\/",
@@ -2819,7 +2819,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2197265625,
-    "scaled_log_price":0.59606129
+    "log_price":14.4833399305
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131547386-b6cc960e\/",
@@ -2836,7 +2836,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.5774603927
+    "log_price":14.4032972229
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134157004-1441bfd2\/",
@@ -2853,7 +2853,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.0087890625,
-    "scaled_log_price":0.0423691883
+    "log_price":12.1007121299
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132952066-eec55485\/",
@@ -2870,7 +2870,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0791015625,
-    "scaled_log_price":0.3579796442
+    "log_price":13.458835614
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132635540-d8ff94be\/",
@@ -2887,7 +2887,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.015625,
-    "scaled_log_price":0.1450454456
+    "log_price":12.5425448822
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129032949-5f853706\/",
@@ -2904,7 +2904,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5350912044
+    "log_price":14.2209756661
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134117018-ffe8a0c6\/",
@@ -2921,7 +2921,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5456905014
+    "log_price":14.2665861773
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132748925-c05217a6\/",
@@ -2938,7 +2938,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5709138427
+    "log_price":14.3751263459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1122558961-d66b6b30\/",
@@ -2955,7 +2955,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.09765625,
-    "scaled_log_price":0.2797878176
+    "log_price":13.1223633774
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133196114-78fdfa13\/",
@@ -2972,7 +2972,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5849553535
+    "log_price":14.4355492667
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126769629-0b5a81e3\/",
@@ -2989,7 +2989,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0087890625,
-    "scaled_log_price":0.2034476912
+    "log_price":12.7938593104
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128307448-a4e7eac9\/",
@@ -3006,7 +3006,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5709138427
+    "log_price":14.3751263459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133088302-1158be90\/",
@@ -3023,7 +3023,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4030990084
+    "log_price":13.6529916285
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131725788-27fc2900\/",
@@ -3040,7 +3040,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5774603927
+    "log_price":14.4032972229
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133308339-c70bc468\/",
@@ -3057,7 +3057,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.6019448234
+    "log_price":14.5086577385
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126850453-0c3662a5\/",
@@ -3074,7 +3074,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.00390625,
-    "scaled_log_price":0.2553033868
+    "log_price":13.0170028617
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130163728-d929dcd8\/",
@@ -3091,7 +3091,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.5272129191
+    "log_price":14.1870741144
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130361987-7ca0991a\/",
@@ -3108,7 +3108,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.613283031
+    "log_price":14.5574479027
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133995609-7753dee0\/",
@@ -3125,7 +3125,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.00390625,
-    "scaled_log_price":0.3579796442
+    "log_price":13.458835614
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134004478-295000d7\/",
@@ -3142,7 +3142,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0087890625,
-    "scaled_log_price":0.1649197004
+    "log_price":12.6280670556
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133038167-bc5f1164\/",
@@ -3159,7 +3159,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5863263731
+    "log_price":14.4414489888
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133611434-7ec3bd9b\/",
@@ -3176,7 +3176,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.4085036045
+    "log_price":13.6762484906
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131576307-e9f1d19a\/",
@@ -3193,7 +3193,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5572400661
+    "log_price":14.3162858459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132821891-f07886c5\/",
@@ -3210,7 +3210,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5570991827
+    "log_price":14.3156796015
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133811944-fb7aeb30\/",
@@ -3227,7 +3227,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5774603927
+    "log_price":14.4032972229
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133679915-d6d44089\/",
@@ -3244,7 +3244,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0009765625,
-    "scaled_log_price":0.1092228074
+    "log_price":12.3883942023
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133457700-3a71d6cc\/",
@@ -3261,7 +3261,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.015625,
-    "scaled_log_price":0.2553033868
+    "log_price":13.0170028617
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131777946-d41d550f\/",
@@ -3278,7 +3278,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.4832355088
+    "log_price":13.9978321148
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131941640-6a323d37\/",
@@ -3295,7 +3295,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5427111381
+    "log_price":14.2537654889
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1122781909-6414a955\/",
@@ -3312,7 +3312,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.5500891278
+    "log_price":14.2855141872
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1116797339-14f625f1\/",
@@ -3329,7 +3329,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.2678679147
+    "log_price":13.071070083
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134174528-3c9161a7\/",
@@ -3346,7 +3346,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6293160883
+    "log_price":14.6264407742
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1122137783-54bb3261\/",
@@ -3363,7 +3363,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.5500891278
+    "log_price":14.2855141872
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133948123-c89a55d0\/",
@@ -3380,7 +3380,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0244140625,
-    "scaled_log_price":0.2500809837
+    "log_price":12.9945300059
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1120724987-72339cbd\/",
@@ -3397,7 +3397,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4030990084
+    "log_price":13.6529916285
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131311367-25505e35\/",
@@ -3414,7 +3414,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.473345201
+    "log_price":13.9552725003
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1121173084-46fad01c\/",
@@ -3431,7 +3431,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.4163818898
+    "log_price":13.7101500423
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133744939-8fcf66f8\/",
@@ -3448,7 +3448,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.3407579032
+    "log_price":13.3847276419
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1124970448-59299790\/",
@@ -3465,7 +3465,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.3546358864
+    "log_price":13.4444468766
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1122663973-90adc761\/",
@@ -3482,7 +3482,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0791015625,
-    "scaled_log_price":0.2774522486
+    "log_price":13.1123130416
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1124150522-0f6dec77\/",
@@ -3499,7 +3499,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.3612759712
+    "log_price":13.473020249
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133588980-daab5481\/",
@@ -3516,7 +3516,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.09765625,
-    "scaled_log_price":0.3019366793
+    "log_price":13.2176735572
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133786495-d8bd8850\/",
@@ -3533,7 +3533,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5825680083
+    "log_price":14.4252761296
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133698305-03122218\/",
@@ -3550,7 +3550,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.541298135
+    "log_price":14.2476851053
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1125945804-30beb231\/",
@@ -3567,7 +3567,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4408663205
+    "log_price":13.815510558
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134075768-964bde78\/",
@@ -3584,7 +3584,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.0478515625,
-    "scaled_log_price":0.2553033868
+    "log_price":13.0170028617
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129979211-30b8c2d0\/",
@@ -3601,7 +3601,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6042571525
+    "log_price":14.5186080694
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134162979-43c7a95f\/",
@@ -3618,7 +3618,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.0244140625,
-    "scaled_log_price":0.1760764264
+    "log_price":12.6760762748
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134146626-d3097d7d\/",
@@ -3635,7 +3635,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.3491837382
+    "log_price":13.4209853899
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130766007-532fadb9\/",
@@ -3652,7 +3652,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.5190581471
+    "log_price":14.1519827946
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130036034-a8c590aa\/",
@@ -3669,7 +3669,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.4030990084
+    "log_price":13.6529916285
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134030424-8a36f9c5\/",
@@ -3686,7 +3686,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5887986002
+    "log_price":14.452087387
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129705271-34c2ed2c\/",
@@ -3703,7 +3703,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5634930126
+    "log_price":14.3431932988
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1103905404-269cff62\/",
@@ -3720,7 +3720,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5900249205
+    "log_price":14.4573644441
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132332893-a9d21234\/",
@@ -3737,7 +3737,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.00390625,
-    "scaled_log_price":0.1760764264
+    "log_price":12.6760762748
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1122311450-2600d11e\/",
@@ -3754,7 +3754,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3579796442
+    "log_price":13.458835614
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133923314-e3b15427\/",
@@ -3771,7 +3771,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.6491056693
+    "log_price":14.7115985825
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133818569-24f268e3\/",
@@ -3788,7 +3788,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6442171636
+    "log_price":14.6905625418
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134157742-796db0af\/",
@@ -3805,7 +3805,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.0625,
-    "scaled_log_price":0.3334952134
+    "log_price":13.3534750984
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1118849212-06b74c91\/",
@@ -3822,7 +3822,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.00390625,
-    "scaled_log_price":0.2364872165
+    "log_price":12.9360337992
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133996579-7e42605a\/",
@@ -3839,7 +3839,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.03515625,
-    "scaled_log_price":0.2955108185
+    "log_price":13.1900220259
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129548345-d95d253a\/",
@@ -3856,7 +3856,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.015625,
-    "scaled_log_price":0.1853304302
+    "log_price":12.715897769
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134154156-2f654200\/",
@@ -3873,7 +3873,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.03515625,
-    "scaled_log_price":0.2688443327
+    "log_price":13.0752717699
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133106817-ef5284ae\/",
@@ -3890,7 +3890,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0244140625,
-    "scaled_log_price":0.2308189561
+    "log_price":12.9116423461
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132439034-3583b39a\/",
@@ -3907,7 +3907,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.3478004772
+    "log_price":13.4150329914
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134129086-aa3c323f\/",
@@ -3924,7 +3924,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6076830695
+    "log_price":14.5333503511
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131802378-436384a2\/",
@@ -3941,7 +3941,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.5709138427
+    "log_price":14.3751263459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133585798-131d0f9c\/",
@@ -3958,7 +3958,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.3890106249
+    "log_price":13.5923670067
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126057084-ef6b5654\/",
@@ -3975,7 +3975,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2197265625,
-    "scaled_log_price":0.4832355088
+    "log_price":13.9978321148
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130495615-c6dd6002\/",
@@ -3992,7 +3992,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.452204528
+    "log_price":13.8643007221
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129730787-b74340e5\/",
@@ -4009,7 +4009,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5036171593
+    "log_price":14.0855376952
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128077605-1ac1372a\/",
@@ -4026,7 +4026,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5486321503
+    "log_price":14.2792445742
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132261563-52664070\/",
@@ -4043,7 +4043,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6019447072
+    "log_price":14.5086572385
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130417265-f75e57b1\/",
@@ -4060,7 +4060,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6019448234
+    "log_price":14.5086577385
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127407556-800bcfff\/",
@@ -4077,7 +4077,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5350912044
+    "log_price":14.2209756661
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133217161-f4b01fc1\/",
@@ -4094,7 +4094,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.59606129
+    "log_price":14.4833399305
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126142355-0755f232\/",
@@ -4111,7 +4111,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5350912044
+    "log_price":14.2209756661
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134193359-4a64f602\/",
@@ -4128,7 +4128,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.7368544539
+    "log_price":15.0891959747
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127410623-051a2f26\/",
@@ -4145,7 +4145,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6127290685
+    "log_price":14.5550641113
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129854704-327f60c2\/",
@@ -4162,7 +4162,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0087890625,
-    "scaled_log_price":0.2066530822
+    "log_price":12.8076526326
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1123037690-fbb95e4f\/",
@@ -4179,7 +4179,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5918523519
+    "log_price":14.4652281806
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126481232-2caaa0dc\/",
@@ -4196,7 +4196,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0244140625,
-    "scaled_log_price":0.0
+    "log_price":11.9183905731
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133112878-03d5f331\/",
@@ -4213,7 +4213,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.0625,
-    "scaled_log_price":0.2843896938
+    "log_price":13.1421660047
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133843520-8f66b918\/",
@@ -4230,7 +4230,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.6099392732
+    "log_price":14.5430591652
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132333093-b36af801\/",
@@ -4247,7 +4247,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.59606129
+    "log_price":14.4833399305
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133733457-1169a72d\/",
@@ -4264,7 +4264,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.015625,
-    "scaled_log_price":0.2160122191
+    "log_price":12.8479265317
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129233250-520af71f\/",
@@ -4281,7 +4281,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0478515625,
-    "scaled_log_price":0.452204528
+    "log_price":13.8643007221
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133117483-2820ddde\/",
@@ -4298,7 +4298,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0478515625,
-    "scaled_log_price":0.2392703295
+    "log_price":12.9480099903
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127945652-c0af8bb0\/",
@@ -4315,7 +4315,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5838275624
+    "log_price":14.4306961971
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133211383-c77a3f09\/",
@@ -4332,7 +4332,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.0791015625,
-    "scaled_log_price":0.3019366793
+    "log_price":13.2176735572
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1121392623-a9d04d06\/",
@@ -4349,7 +4349,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6019448234
+    "log_price":14.5086577385
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132428218-1be41dfd\/",
@@ -4366,7 +4366,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5900249205
+    "log_price":14.4573644441
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1124664819-db202841\/",
@@ -4383,7 +4383,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.015625,
-    "scaled_log_price":0.2392703295
+    "log_price":12.9480099903
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132199530-358b04fc\/",
@@ -4400,7 +4400,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0009765625,
-    "scaled_log_price":0.1365940722
+    "log_price":12.506177238
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132520622-c1f03d28\/",
@@ -4417,7 +4417,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6076830695
+    "log_price":14.5333503511
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134029738-0ca7b2f1\/",
@@ -4434,7 +4434,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.6019448234
+    "log_price":14.5086577385
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132588282-c2ecb4e3\/",
@@ -4451,7 +4451,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.015625,
-    "scaled_log_price":0.2797878176
+    "log_price":13.1223633774
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1117426276-2ea28ecb\/",
@@ -4468,7 +4468,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.09765625,
-    "scaled_log_price":0.4289464176
+    "log_price":13.7642172636
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133956267-9f5c01c3\/",
@@ -4485,7 +4485,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.6013631281
+    "log_price":14.5061546083
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130199762-364a39a0\/",
@@ -4502,7 +4502,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.5572400661
+    "log_price":14.3162858459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126962519-3d063a48\/",
@@ -4519,7 +4519,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0478515625,
-    "scaled_log_price":0.2308189561
+    "log_price":12.9116423461
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128935915-41b8588b\/",
@@ -4536,7 +4536,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.59606129
+    "log_price":14.4833399305
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133971372-c0d62189\/",
@@ -4553,7 +4553,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0244140625,
-    "scaled_log_price":0.1610785029
+    "log_price":12.6115377536
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133359281-2c44b7b5\/",
@@ -4570,7 +4570,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6240936852
+    "log_price":14.6039679183
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133453645-0848315a\/",
@@ -4587,7 +4587,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.4630151822
+    "log_price":13.9108207378
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131980675-50f02b09\/",
@@ -4604,7 +4604,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6293160883
+    "log_price":14.6264407742
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131930853-1b30a281\/",
@@ -4621,7 +4621,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.613283031
+    "log_price":14.5574479027
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131702980-efc680a4\/",
@@ -4638,7 +4638,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.613283031
+    "log_price":14.5574479027
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134135812-e62cb97e\/",
@@ -4655,7 +4655,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6491056693
+    "log_price":14.7115985825
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130833916-ec4eddb8\/",
@@ -4672,7 +4672,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6240936852
+    "log_price":14.6039679183
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126795557-4472b4ca\/",
@@ -4689,7 +4689,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5924583162
+    "log_price":14.467835744
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134100428-ddd5d14a\/",
@@ -4706,7 +4706,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.6394214698
+    "log_price":14.6699258861
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132030355-9deda387\/",
@@ -4723,7 +4723,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.613283031
+    "log_price":14.5574479027
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133376272-87b2bc0f\/",
@@ -4740,7 +4740,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.4163818898
+    "log_price":13.7101500423
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133980309-be098ddb\/",
@@ -4757,7 +4757,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7443414328
+    "log_price":15.1214136715
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1119259893-a5d33347\/",
@@ -4774,7 +4774,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.015625,
-    "scaled_log_price":0.2160122191
+    "log_price":12.8479265317
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133868501-d1e94279\/",
@@ -4791,7 +4791,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6197219694
+    "log_price":14.5851557095
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131148754-ddac510e\/",
@@ -4808,7 +4808,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0087890625,
-    "scaled_log_price":0.1092228074
+    "log_price":12.3883942023
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134113866-4a327d26\/",
@@ -4825,7 +4825,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.2197265625,
-    "scaled_log_price":0.3918971721
+    "log_price":13.6047882921
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133147770-b804be3b\/",
@@ -4842,7 +4842,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.015625,
-    "scaled_log_price":0.1187093146
+    "log_price":12.4292161968
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1121830385-1c286233\/",
@@ -4859,7 +4859,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5838275624
+    "log_price":14.4306961971
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132116599-7d9ee741\/",
@@ -4876,7 +4876,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.696092232
+    "log_price":14.9137894577
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131099973-56c56a91\/",
@@ -4893,7 +4893,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.6187512164
+    "log_price":14.5809784001
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131983398-e6228d31\/",
@@ -4910,7 +4910,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0478515625,
-    "scaled_log_price":0.2843896938
+    "log_price":13.1421660047
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1125445508-aa9f4c2f\/",
@@ -4927,7 +4927,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.6240936852
+    "log_price":14.6039679183
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129076711-b1d1cae2\/",
@@ -4944,7 +4944,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5887986002
+    "log_price":14.452087387
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1123552294-f47ce54a\/",
@@ -4961,7 +4961,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.3831270915
+    "log_price":13.5670491987
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133265233-1ae810a8\/",
@@ -4978,7 +4978,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.653800519
+    "log_price":14.7318012898
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134055126-036d76aa\/",
@@ -4995,7 +4995,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6413908643
+    "log_price":14.6784005131
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1074975497-cca7\/",
@@ -5012,7 +5012,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.662914909
+    "log_price":14.771022003
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1123510082-650121ad\/",
@@ -5029,7 +5029,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.3579796442
+    "log_price":13.458835614
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133722208-5cf24b40\/",
@@ -5046,7 +5046,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.4163818898
+    "log_price":13.7101500423
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130160316-230cb31b\/",
@@ -5063,7 +5063,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0478515625,
-    "scaled_log_price":0.3221570059
+    "log_price":13.3046849342
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132647849-e85a1707\/",
@@ -5080,7 +5080,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6334111221
+    "log_price":14.6440623755
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1122840675-d481f39e\/",
@@ -5097,7 +5097,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.616579358
+    "log_price":14.5716325377
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131078480-72b20201\/",
@@ -5114,7 +5114,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0244140625,
-    "scaled_log_price":0.2797878176
+    "log_price":13.1223633774
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134144185-ef022f37\/",
@@ -5131,7 +5131,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.68013665
+    "log_price":14.8451299751
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132290231-cf859239\/",
@@ -5148,7 +5148,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.8125001169
+    "log_price":15.4147116525
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131083939-fd8712d4\/",
@@ -5165,7 +5165,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.6394214698
+    "log_price":14.6699258861
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133238371-dc341c57\/",
@@ -5182,7 +5182,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.59606129
+    "log_price":14.4833399305
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131816091-39476ed7\/",
@@ -5199,7 +5199,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6019448234
+    "log_price":14.5086577385
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132516660-727fbd97\/",
@@ -5216,7 +5216,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0244140625,
-    "scaled_log_price":0.2553033868
+    "log_price":13.0170028617
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128935296-5eb1e189\/",
@@ -5233,7 +5233,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.6716852766
+    "log_price":14.808762331
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134009152-81db2d42\/",
@@ -5250,7 +5250,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.608611893
+    "log_price":14.537347231
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133794662-8d9d54e7\/",
@@ -5267,7 +5267,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.6019448234
+    "log_price":14.5086577385
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133639914-adc2a718\/",
@@ -5284,7 +5284,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6219714133
+    "log_price":14.5948354348
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132035525-b10a84b1\/",
@@ -5301,7 +5301,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6344237039
+    "log_price":14.6484196809
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133864082-aacf6d31\/",
@@ -5318,7 +5318,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.7385388956
+    "log_price":15.0964444034
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128326457-b31cac61\/",
@@ -5335,7 +5335,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6019448234
+    "log_price":14.5086577385
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133374009-a8ade90d\/",
@@ -5352,7 +5352,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.8369888816
+    "log_price":15.5200908179
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132763143-e40f3a45\/",
@@ -5369,7 +5369,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.6076830695
+    "log_price":14.5333503511
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128053841-81122491\/",
@@ -5386,7 +5386,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6344237039
+    "log_price":14.6484196809
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134039445-35f34f68\/",
@@ -5403,7 +5403,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.7352255595
+    "log_price":15.0821865753
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132230478-c6dff99e\/",
@@ -5420,7 +5420,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6374352427
+    "log_price":14.6613788255
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133090763-d817b010\/",
@@ -5437,7 +5437,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.6049463883
+    "log_price":14.5215739638
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133178904-924d65a7\/",
@@ -5454,7 +5454,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.6344237039
+    "log_price":14.6484196809
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131574723-13c66c21\/",
@@ -5471,7 +5471,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6842498044
+    "log_price":14.8628295522
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132892381-73c96aa7\/",
@@ -5488,7 +5488,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0087890625,
-    "scaled_log_price":0.1610785029
+    "log_price":12.6115377536
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134045617-413c5d54\/",
@@ -5505,7 +5505,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0244140625,
-    "scaled_log_price":0.2797878176
+    "log_price":13.1223633774
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1123010496-1a535c7e\/",
@@ -5522,7 +5522,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.03515625,
-    "scaled_log_price":0.2220485885
+    "log_price":12.8739020181
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134043191-c08de83e\/",
@@ -5539,7 +5539,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6673414649
+    "log_price":14.790070198
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133865408-94e30091\/",
@@ -5556,7 +5556,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6953937895
+    "log_price":14.9107839454
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1114866063-ac2b2aa5\/",
@@ -5573,7 +5573,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.6842498044
+    "log_price":14.8628295522
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133620963-e9955522\/",
@@ -5590,7 +5590,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.8101841722
+    "log_price":15.4047457631
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1121874133-c9f7c808\/",
@@ -5607,7 +5607,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6443140117
+    "log_price":14.6909792953
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131193236-63b3868f\/",
@@ -5624,7 +5624,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6619296469
+    "log_price":14.7667822587
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1125049349-564dd4a8\/",
@@ -5641,7 +5641,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.0087890625,
-    "scaled_log_price":0.1935573834
+    "log_price":12.751299696
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133093377-75741fc5\/",
@@ -5658,7 +5658,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0625,
-    "scaled_log_price":0.473345201
+    "log_price":13.9552725003
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131845640-92dff122\/",
@@ -5675,7 +5675,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6240936852
+    "log_price":14.6039679183
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133988466-56d37ac1\/",
@@ -5692,7 +5692,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6240936852
+    "log_price":14.6039679183
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129057895-d4112967\/",
@@ -5709,7 +5709,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5838275624
+    "log_price":14.4306961971
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131613048-80927e01\/",
@@ -5726,7 +5726,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6344237039
+    "log_price":14.6484196809
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134142753-adc1f135\/",
@@ -5743,7 +5743,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.653800519
+    "log_price":14.7318012898
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131872959-b0ce9e55\/",
@@ -5760,7 +5760,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.6584023953
+    "log_price":14.7516039171
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134178813-16c06641\/",
@@ -5777,7 +5777,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7903945912
+    "log_price":15.3195879547
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127915252-3cd8aeba\/",
@@ -5794,7 +5794,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.015625,
-    "scaled_log_price":0.3579796442
+    "log_price":13.458835614
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132679594-c29ed232\/",
@@ -5811,7 +5811,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6187512164
+    "log_price":14.5809784001
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129972284-64c1f4a4\/",
@@ -5828,7 +5828,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.6187512164
+    "log_price":14.5809784001
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133964894-1d10489f\/",
@@ -5845,7 +5845,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6195065967
+    "log_price":14.5842289254
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130587231-1f64dc33\/",
@@ -5862,7 +5862,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.6759493807
+    "log_price":14.8271114696
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133399002-86e597e2\/",
@@ -5879,7 +5879,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6443140117
+    "log_price":14.6909792953
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130128047-9121d221\/",
@@ -5896,7 +5896,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.6019447072
+    "log_price":14.5086572385
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132610990-2ee9ede3\/",
@@ -5913,7 +5913,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.613283031
+    "log_price":14.5574479027
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132367848-21c071bc\/",
@@ -5930,7 +5930,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.613283031
+    "log_price":14.5574479027
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130162592-070cd345\/",
@@ -5947,7 +5947,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6110592135
+    "log_price":14.5478784517
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132413193-7ef59cc2\/",
@@ -5964,7 +5964,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.0478515625,
-    "scaled_log_price":0.4030990084
+    "log_price":13.6529916285
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131625841-4d08b23a\/",
@@ -5981,7 +5981,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.03515625,
-    "scaled_log_price":0.2160122191
+    "log_price":12.8479265317
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131895799-7be88ca5\/",
@@ -5998,7 +5998,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6759493807
+    "log_price":14.8271114696
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133896255-a372a639\/",
@@ -6015,7 +6015,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.7000109048
+    "log_price":14.9306521486
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133711499-e2b715e9\/",
@@ -6032,7 +6032,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.015625,
-    "scaled_log_price":0.3182512474
+    "log_price":13.2878778159
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129552652-0c1c9e42\/",
@@ -6049,7 +6049,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.6230349719
+    "log_price":14.5994121018
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130961769-9e25a848\/",
@@ -6066,7 +6066,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6443140117
+    "log_price":14.6909792953
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132724352-0be0302a\/",
@@ -6083,7 +6083,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6882914221
+    "log_price":14.880221295
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134097069-6bd05b8a\/",
@@ -6100,7 +6100,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7449060653
+    "log_price":15.1238433776
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131795513-c317f9f7\/",
@@ -6117,7 +6117,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.662914909
+    "log_price":14.771022003
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127023890-bd3452f0\/",
@@ -6134,7 +6134,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6187512164
+    "log_price":14.5809784001
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133665964-5cb5b13d\/",
@@ -6151,7 +6151,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.817191351
+    "log_price":15.4348988013
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127458825-00809328\/",
@@ -6168,7 +6168,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6261967507
+    "log_price":14.6130177538
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133752425-d6342312\/",
@@ -6185,7 +6185,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6344237039
+    "log_price":14.6484196809
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134069425-e8db5853\/",
@@ -6202,7 +6202,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7798297193
+    "log_price":15.2741255807
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134049563-3532ec51\/",
@@ -6219,7 +6219,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7546235888
+    "log_price":15.1656594724
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127880619-dbeca4ff\/",
@@ -6236,7 +6236,7 @@
     "fuel_type_другое":1,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.662914909
+    "log_price":14.771022003
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132866756-09c34a79\/",
@@ -6253,7 +6253,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7511034235
+    "log_price":15.1505116247
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134132145-e5511309\/",
@@ -6270,7 +6270,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.8284199678
+    "log_price":15.4832173785
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130844185-411b3d4f\/",
@@ -6287,7 +6287,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7480254029
+    "log_price":15.1372663979
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133638944-05d58d5e\/",
@@ -6304,7 +6304,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7641476797
+    "log_price":15.2066431957
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129085655-4f045b91\/",
@@ -6321,7 +6321,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6293160883
+    "log_price":14.6264407742
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133225026-fe191802\/",
@@ -6338,7 +6338,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.7000109048
+    "log_price":14.9306521486
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132462037-e971e99e\/",
@@ -6355,7 +6355,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.774914179
+    "log_price":15.2529732057
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127192363-3d66df6f\/",
@@ -6372,7 +6372,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.613283031
+    "log_price":14.5574479027
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132186984-94ff4ff2\/",
@@ -6389,7 +6389,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.03515625,
-    "scaled_log_price":0.3407579032
+    "log_price":13.3847276419
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134060826-6cf91bc3\/",
@@ -6406,7 +6406,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.8758491075
+    "log_price":15.6873127349
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131519493-d34c69ab\/",
@@ -6423,7 +6423,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.8572482102
+    "log_price":15.6072700272
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133196966-666b63a3\/",
@@ -6440,7 +6440,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.653800519
+    "log_price":14.7318012898
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132261269-1560d51a\/",
@@ -6457,7 +6457,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.7065202022
+    "log_price":14.9586627213
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128974579-96316f24\/",
@@ -6474,7 +6474,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.653800519
+    "log_price":14.7318012898
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133966762-a47b3f3e\/",
@@ -6491,7 +6491,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.6793052103
+    "log_price":14.8415521538
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132321089-56b50925\/",
@@ -6508,7 +6508,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6344237039
+    "log_price":14.6484196809
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131786243-b22d8869\/",
@@ -6525,7 +6525,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.68013665
+    "log_price":14.8451299751
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132530298-05e89177\/",
@@ -6542,7 +6542,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7687615724
+    "log_price":15.2264975317
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133317678-f2a81ca7\/",
@@ -6559,7 +6559,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7954544615
+    "log_price":15.3413614056
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130260395-f95977e3\/",
@@ -6576,7 +6576,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6842498044
+    "log_price":14.8628295522
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133852358-dac9212d\/",
@@ -6593,7 +6593,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":1.0,
-    "scaled_log_price":0.8863345172
+    "log_price":15.7324331701
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133835085-94b94cca\/",
@@ -6610,7 +6610,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.7449060653
+    "log_price":15.1238433776
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134140860-5aaab7f0\/",
@@ -6627,7 +6627,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.731327432
+    "log_price":15.0654122942
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134116285-04d8e90f\/",
@@ -6644,7 +6644,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.6443140117
+    "log_price":14.6909792953
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133985485-a294cb56\/",
@@ -6661,7 +6661,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7507974496
+    "log_price":15.1491949688
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134137031-a332ee83\/",
@@ -6678,7 +6678,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.7218131786
+    "log_price":15.0244709038
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133202976-b9c22774\/",
@@ -6695,7 +6695,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.8553035365
+    "log_price":15.5989017775
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129216779-7d5d95b9\/",
@@ -6712,7 +6712,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.6528691063
+    "log_price":14.7277932684
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134128281-5c62e4a0\/",
@@ -6729,7 +6729,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.7075079149
+    "log_price":14.9629130108
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133933936-145f68a8\/",
@@ -6746,7 +6746,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.8017327988
+    "log_price":15.3683781189
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133863521-25dc3730\/",
@@ -6763,7 +6763,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7743615339
+    "log_price":15.2505950833
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133853426-20aba3a2\/",
@@ -6780,7 +6780,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.864868144
+    "log_price":15.64005985
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134163986-1e1ce723\/",
@@ -6797,7 +6797,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.765625,
-    "scaled_log_price":0.8262172295
+    "log_price":15.4737386346
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133795038-eaaa1f48\/",
@@ -6814,7 +6814,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.8004010635
+    "log_price":15.3626474442
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132747990-2612a9af\/",
@@ -6831,7 +6831,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.6240936852
+    "log_price":14.6039679183
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131606047-bf21d63c\/",
@@ -6848,7 +6848,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.765625,
-    "scaled_log_price":0.782516306
+    "log_price":15.2856864031
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129879355-4aa4f95d\/",
@@ -6865,7 +6865,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6323941089
+    "log_price":14.6396860009
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134146944-72774a70\/",
@@ -6882,7 +6882,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7108042419
+    "log_price":14.9770976458
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133513976-3de5196a\/",
@@ -6899,7 +6899,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7179662003
+    "log_price":15.0079167259
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130030537-a902d662\/",
@@ -6916,7 +6916,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.7218131786
+    "log_price":15.0244709038
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132965310-57b67385\/",
@@ -6933,7 +6933,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.8212890625,
-    "scaled_log_price":0.9275331307
+    "log_price":15.9097175518
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129967517-fc083181\/",
@@ -6950,7 +6950,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.782516306
+    "log_price":15.2856864031
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132816052-e230e3d3\/",
@@ -6967,7 +6967,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.68013665
+    "log_price":14.8451299751
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130006673-49dcd656\/",
@@ -6984,7 +6984,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.7000109048
+    "log_price":14.9306521486
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129607754-185b45ad\/",
@@ -7001,7 +7001,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6961697073
+    "log_price":14.9141228466
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132779104-0224bd94\/",
@@ -7018,7 +7018,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.8284199678
+    "log_price":15.4832173785
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131748293-769d56fd\/",
@@ -7035,7 +7035,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6708229856
+    "log_price":14.8050517516
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134171817-faa3a221\/",
@@ -7052,7 +7052,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.8212890625,
-    "scaled_log_price":0.7903945912
+    "log_price":15.3195879547
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132015114-fdf762b5\/",
@@ -7069,7 +7069,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7955022068
+    "log_price":15.3415668615
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134108343-a35b819d\/",
@@ -7086,7 +7086,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.765625,
-    "scaled_log_price":0.8722461337
+    "log_price":15.6718085483
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134081045-d3f0ca2c\/",
@@ -7103,7 +7103,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7792886547
+    "log_price":15.2717972909
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133499909-589c5e87\/",
@@ -7120,7 +7120,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7111676308
+    "log_price":14.9786613678
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130682244-9bb79655\/",
@@ -7137,7 +7137,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.653800519
+    "log_price":14.7318012898
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133693166-b12eff6e\/",
@@ -7154,7 +7154,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.7630233263
+    "log_price":15.2018049191
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131904133-8039695b\/",
@@ -7171,7 +7171,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7809080839
+    "log_price":15.2787659602
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131112206-2c55e9fc\/",
@@ -7188,7 +7188,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.8407998049
+    "log_price":15.5364898451
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129804357-69f28a1a\/",
@@ -7205,7 +7205,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.653800519
+    "log_price":14.7318012898
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1099580092-3e559c01\/",
@@ -7222,7 +7222,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.6410239522
+    "log_price":14.6768216302
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1123533747-1fb94f07\/",
@@ -7239,7 +7239,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.653800519
+    "log_price":14.7318012898
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133162744-ad9f0b8d\/",
@@ -7256,7 +7256,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7565431632
+    "log_price":15.1739197156
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132283100-bdf3f9ea\/",
@@ -7273,7 +7273,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.6293160883
+    "log_price":14.6264407742
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132981316-1a1232c3\/",
@@ -7290,7 +7290,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7736966203
+    "log_price":15.247733851
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133899283-0dde2bad\/",
@@ -7307,7 +7307,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.6961697073
+    "log_price":14.9141228466
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133180716-e1b6c552\/",
@@ -7324,7 +7324,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6491056693
+    "log_price":14.7115985825
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132879665-9776eee0\/",
@@ -7341,7 +7341,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.6547282135
+    "log_price":14.7357933111
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133959599-e2205b4c\/",
@@ -7358,7 +7358,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.7000109048
+    "log_price":14.9306521486
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134086347-58e3c4f4\/",
@@ -7375,7 +7375,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7108042419
+    "log_price":14.9770976458
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133928213-dc34d497\/",
@@ -7392,7 +7392,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.8027143722
+    "log_price":15.37260199
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132973695-99ddeb09\/",
@@ -7409,7 +7409,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.6443140117
+    "log_price":14.6909792953
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134160278-17311fa8\/",
@@ -7426,7 +7426,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7571397929
+    "log_price":15.1764871111
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127674829-2b78eb79\/",
@@ -7443,7 +7443,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6716852766
+    "log_price":14.808762331
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126987806-4eadd78a\/",
@@ -7460,7 +7460,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7218131786
+    "log_price":15.0244709038
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131893209-79c52deb\/",
@@ -7477,7 +7477,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.759511111
+    "log_price":15.1866912813
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134135176-f7845a58\/",
@@ -7494,7 +7494,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.776015542
+    "log_price":15.257712551
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133945654-4f007f4e\/",
@@ -7511,7 +7511,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7541412073
+    "log_price":15.1635837063
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134103674-63a64e4d\/",
@@ -7528,7 +7528,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7980145249
+    "log_price":15.3523777776
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134079218-92c841de\/",
@@ -7545,7 +7545,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.6841682508
+    "log_price":14.8624786135
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134165723-92d43046\/",
@@ -7562,7 +7562,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7417442865
+    "log_price":15.1102377256
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133501469-c9240136\/",
@@ -7579,7 +7579,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7398263624
+    "log_price":15.1019845838
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134047971-f641e247\/",
@@ -7596,7 +7596,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7153098318
+    "log_price":14.9964859371
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133313730-11d15fa1\/",
@@ -7613,7 +7613,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.7183185691
+    "log_price":15.0094330264
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134163194-80eb29f4\/",
@@ -7630,7 +7630,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.6842498044
+    "log_price":14.8628295522
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131539566-4bc2ef74\/",
@@ -7647,7 +7647,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.6450390893
+    "log_price":14.6940994227
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131173752-017839cb\/",
@@ -7664,7 +7664,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6874887023
+    "log_price":14.8767670601
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132427947-9c0b692b\/",
@@ -7681,7 +7681,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.8148790219
+    "log_price":15.4249484704
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132619395-0dccad16\/",
@@ -7698,7 +7698,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.7384743347
+    "log_price":15.0961665871
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133201877-e88666f1\/",
@@ -7715,7 +7715,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7218131786
+    "log_price":15.0244709038
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133489877-7f1869a5\/",
@@ -7732,7 +7732,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7176132964
+    "log_price":15.0063981227
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133788122-1e442562\/",
@@ -7749,7 +7749,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.823993412
+    "log_price":15.4641691836
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128979657-7c02c30c\/",
@@ -7766,7 +7766,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.6961697073
+    "log_price":14.9141228466
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132639493-d5ed95e2\/",
@@ -7783,7 +7783,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7630233263
+    "log_price":15.2018049191
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131326844-4d963edb\/",
@@ -7800,7 +7800,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.765625,
-    "scaled_log_price":0.8758491075
+    "log_price":15.6873127349
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133402874-e74ec6f3\/",
@@ -7817,7 +7817,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7798297193
+    "log_price":15.2741255807
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1076874299-df16b031\/",
@@ -7834,7 +7834,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.6961697073
+    "log_price":14.9141228466
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1102182647-3ea7592f\/",
@@ -7851,7 +7851,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.68013665
+    "log_price":14.8451299751
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131898631-a69d8fb8\/",
@@ -7868,7 +7868,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.8685864178
+    "log_price":15.6560601914
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133476320-ceb32265\/",
@@ -7885,7 +7885,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.7147706046
+    "log_price":14.9941655543
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134176399-c181bf45\/",
@@ -7902,7 +7902,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7797216071
+    "log_price":15.2736603562
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133861922-19044af7\/",
@@ -7919,7 +7919,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6759493807
+    "log_price":14.8271114696
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134172031-cd39c0e9\/",
@@ -7936,7 +7936,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7903945912
+    "log_price":15.3195879547
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134096229-4901c24f\/",
@@ -7953,7 +7953,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.765625,
-    "scaled_log_price":0.7939816748
+    "log_price":15.3350237629
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133300763-af20102f\/",
@@ -7970,7 +7970,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7571397929
+    "log_price":15.1764871111
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134113996-cf6cdbbd\/",
@@ -7987,7 +7987,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7436465113
+    "log_price":15.1184233101
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133603568-ce972214\/",
@@ -8004,7 +8004,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7449060653
+    "log_price":15.1238433776
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133416134-af04d4df\/",
@@ -8021,7 +8021,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.7231964396
+    "log_price":15.0304233023
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1124167680-d24d0b6a\/",
@@ -8038,7 +8038,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7630233263
+    "log_price":15.2018049191
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133290806-be251820\/",
@@ -8055,7 +8055,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7183185691
+    "log_price":15.0094330264
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131350159-cc68d69b\/",
@@ -8072,7 +8072,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7715784209
+    "log_price":15.2386188922
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134083432-04feb778\/",
@@ -8089,7 +8089,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7548042239
+    "log_price":15.1664367752
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133556828-647748cb\/",
@@ -8106,7 +8106,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7197227253
+    "log_price":15.0154753409
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130712476-05168bc4\/",
@@ -8123,7 +8123,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.6961697073
+    "log_price":14.9141228466
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133522525-15d88e29\/",
@@ -8140,7 +8140,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7601001789
+    "log_price":15.1892261369
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126566922-66a403b3\/",
@@ -8157,7 +8157,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.7183184986
+    "log_price":15.0094327234
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130017748-319dd647\/",
@@ -8174,7 +8174,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.8327637795
+    "log_price":15.5019095115
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134120404-c5d4f01d\/",
@@ -8191,7 +8191,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7504910722
+    "log_price":15.1478765771
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133975537-eb167a62\/",
@@ -8208,7 +8208,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7630233263
+    "log_price":15.2018049191
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1124275871-5952fe0f\/",
@@ -8225,7 +8225,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7252560143
+    "log_price":15.0392859896
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127780917-42b803ab\/",
@@ -8242,7 +8242,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7511034235
+    "log_price":15.1505116247
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131375135-6495a870\/",
@@ -8259,7 +8259,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.8722461337
+    "log_price":15.6718085483
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129157920-88c6ceee\/",
@@ -8276,7 +8276,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.8125434529
+    "log_price":15.4148981345
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128160706-95768cbf\/",
@@ -8293,7 +8293,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7259385028
+    "log_price":15.0422228493
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132403808-4a2d2355\/",
@@ -8310,7 +8310,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.6961697073
+    "log_price":14.9141228466
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134001591-22652ce9\/",
@@ -8327,7 +8327,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.802959119
+    "log_price":15.373655176
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132202011-4d3922af\/",
@@ -8344,7 +8344,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7903945912
+    "log_price":15.3195879547
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134048617-731a6e2c\/",
@@ -8361,7 +8361,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7629652223
+    "log_price":15.2015548878
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130253387-af496403\/",
@@ -8378,7 +8378,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7601001789
+    "log_price":15.1892261369
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133868829-eeaf4ff8\/",
@@ -8395,7 +8395,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7771117099
+    "log_price":15.2624295409
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133313851-0fd43df4\/",
@@ -8412,7 +8412,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7223190236
+    "log_price":15.0266476375
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131691397-57b6261d\/",
@@ -8429,7 +8429,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7417442865
+    "log_price":15.1102377256
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133529509-73581887\/",
@@ -8446,7 +8446,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7774395545
+    "log_price":15.26384031
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134021434-8ea94f2c\/",
@@ -8463,7 +8463,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.7319923456
+    "log_price":15.0682735265
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131503032-8c6b32c2\/",
@@ -8480,7 +8480,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7851193668
+    "log_price":15.2968878003
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134136466-acd18d4a\/",
@@ -8497,7 +8497,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.74790143
+    "log_price":15.1367329223
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130581600-f8b4e16d\/",
@@ -8514,7 +8514,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7798297193
+    "log_price":15.2741255807
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133482720-88cc8a64\/",
@@ -8531,7 +8531,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7630233263
+    "log_price":15.2018049191
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133104172-11b0be4b\/",
@@ -8548,7 +8548,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7272974959
+    "log_price":15.0480708191
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133701124-cce64432\/",
@@ -8565,7 +8565,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7851721881
+    "log_price":15.2971150989
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133794034-0a2a59a5\/",
@@ -8582,7 +8582,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7111676308
+    "log_price":14.9786613678
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1117206331-a1bb25d8\/",
@@ -8599,7 +8599,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.7738075714
+    "log_price":15.2482112919
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133846318-a7034ba0\/",
@@ -8616,7 +8616,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7630233263
+    "log_price":15.2018049191
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134128166-b9241422\/",
@@ -8633,7 +8633,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7449060025
+    "log_price":15.1238431073
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130997410-d1d7269a\/",
@@ -8650,7 +8650,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7147706046
+    "log_price":14.9941655543
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128446854-5a93ca4e\/",
@@ -8667,7 +8667,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7659101605
+    "log_price":15.2142274391
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132238744-67eb8a8c\/",
@@ -8684,7 +8684,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7980145249
+    "log_price":15.3523777776
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1115045948-4e607546\/",
@@ -8701,7 +8701,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7147706046
+    "log_price":14.9941655543
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130515304-7c67dc31\/",
@@ -8718,7 +8718,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.6961697073
+    "log_price":14.9141228466
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126439088-853f7dcd\/",
@@ -8735,7 +8735,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.8078006933
+    "log_price":15.3944892629
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132610503-08304ea9\/",
@@ -8752,7 +8752,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7698924124
+    "log_price":15.2313637213
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133953646-b21a6b77\/",
@@ -8769,7 +8769,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.740659407
+    "log_price":15.1055693112
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132742448-77c3f89f\/",
@@ -8786,7 +8786,7 @@
     "fuel_type_другое":1,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.8053925147
+    "log_price":15.3841264759
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126137015-34dab099\/",
@@ -8803,7 +8803,7 @@
     "fuel_type_другое":1,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7929624312
+    "log_price":15.3306377909
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131925695-135f29ae\/",
@@ -8820,7 +8820,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.765625,
-    "scaled_log_price":0.8148790219
+    "log_price":15.4249484704
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129379366-d388032e\/",
@@ -8837,7 +8837,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7929624312
+    "log_price":15.3306377909
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129672827-13a9fa81\/",
@@ -8854,7 +8854,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.68013665
+    "log_price":14.8451299751
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133569601-ae13bed9\/",
@@ -8871,7 +8871,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.8212890625,
-    "scaled_log_price":0.8198451415
+    "log_price":15.4463184961
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130827701-c2b5c2f3\/",
@@ -8888,7 +8888,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7980145249
+    "log_price":15.3523777776
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133985568-1ff8b346\/",
@@ -8905,7 +8905,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7776578609
+    "log_price":15.2647797182
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127149506-610d8bde\/",
@@ -8922,7 +8922,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7771117099
+    "log_price":15.2624295409
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133972015-0b3cb487\/",
@@ -8939,7 +8939,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.765625,
-    "scaled_log_price":0.9091039058
+    "log_price":15.8304135785
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133816583-121e6429\/",
@@ -8956,7 +8956,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7797756695
+    "log_price":15.2738929955
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133735796-1d594482\/",
@@ -8973,7 +8973,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.836604977
+    "log_price":15.5184388135
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126438969-3bfd825e\/",
@@ -8990,7 +8990,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7903945912
+    "log_price":15.3195879547
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133827198-eb77b601\/",
@@ -9007,7 +9007,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.765625,
-    "scaled_log_price":0.7954516824
+    "log_price":15.3413494465
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134050914-d12378a1\/",
@@ -9024,7 +9024,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7797756695
+    "log_price":15.2738929955
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132408941-b92b5b3d\/",
@@ -9041,7 +9041,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.8349056118
+    "log_price":15.5111261666
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132278687-62d7a6de\/",
@@ -9058,7 +9058,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7630233263
+    "log_price":15.2018049191
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132033396-10cc73e4\/",
@@ -9075,7 +9075,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.9091039058
+    "log_price":15.8304135785
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133606034-6fd7064e\/",
@@ -9092,7 +9092,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7715784209
+    "log_price":15.2386188922
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131669533-f9f599aa\/",
@@ -9109,7 +9109,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.03515625,
-    "scaled_log_price":0.3407579032
+    "log_price":13.3847276419
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131906540-eb2cccb7\/",
@@ -9126,7 +9126,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.7687615724
+    "log_price":15.2264975317
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133148214-6c73a73b\/",
@@ -9143,7 +9143,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7898776006
+    "log_price":15.3173632597
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1121301892-3864b4da\/",
@@ -9160,7 +9160,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7903945912
+    "log_price":15.3195879547
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134065595-3db36ee3\/",
@@ -9177,7 +9177,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7606877574
+    "log_price":15.1917545832
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128042806-e9d7e4d4\/",
@@ -9194,7 +9194,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.7119140625,
-    "scaled_log_price":0.7449060653
+    "log_price":15.1238433776
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127960979-cd48c964\/",
@@ -9211,7 +9211,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.7949964675
+    "log_price":15.339390582
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130200921-ea2ee5c8\/",
@@ -9228,7 +9228,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7798297193
+    "log_price":15.2741255807
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131947897-ce49e3a2\/",
@@ -9245,7 +9245,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7571397929
+    "log_price":15.1764871111
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130036001-1c643a7d\/",
@@ -9262,7 +9262,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.765625,
-    "scaled_log_price":0.8996173985
+    "log_price":15.789591584
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130773403-937aaa7f\/",
@@ -9279,7 +9279,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.66015625,
-    "scaled_log_price":0.7511034235
+    "log_price":15.1505116247
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133099324-c3905a9b\/",
@@ -9296,7 +9296,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5166015625,
-    "scaled_log_price":0.5773312528
+    "log_price":14.4027415129
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134194799-0fddf4f9\/",
@@ -9313,7 +9313,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.6103515625,
-    "scaled_log_price":0.6715991913
+    "log_price":14.808391892
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134195087-a42f5a94\/",
@@ -9330,7 +9330,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0625,
-    "scaled_log_price":0.3297769396
+    "log_price":13.337474757
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134196530-b2c219f4\/",
@@ -9347,7 +9347,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.765625,
-    "scaled_log_price":0.7903945912
+    "log_price":15.3195879547
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134104495-88426d0c\/",
@@ -9364,7 +9364,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5190581471
+    "log_price":14.1519827946
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133869589-265ae0b9\/",
@@ -9381,7 +9381,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.4982334323
+    "log_price":14.0623706359
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133122196-c8605011\/",
@@ -9398,7 +9398,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5140242934
+    "log_price":14.1303212978
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126194488-3e19523c\/",
@@ -9415,7 +9415,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4630151822
+    "log_price":13.9108207378
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134129026-4d39eb09\/",
@@ -9432,7 +9432,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4214892528
+    "log_price":13.7321278621
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134170458-024534fd\/",
@@ -9449,7 +9449,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2197265625,
-    "scaled_log_price":0.4337879918
+    "log_price":13.7850513505
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133557800-8cb2ba27\/",
@@ -9466,7 +9466,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.4672024515
+    "log_price":13.9288392433
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134032949-00fd0f5d\/",
@@ -9483,7 +9483,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.4672024515
+    "log_price":13.9288392433
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132038885-a178e459\/",
@@ -9500,7 +9500,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5018362273
+    "log_price":14.0778740532
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130656972-8ca65a43\/",
@@ -9517,7 +9517,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4163818898
+    "log_price":13.7101500423
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133828353-a5c5e0b4\/",
@@ -9534,7 +9534,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.4753572236
+    "log_price":13.9639305631
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133256430-5894cd95\/",
@@ -9551,7 +9551,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5173922822
+    "log_price":14.1448143051
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133082732-c59b9920\/",
@@ -9568,7 +9568,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.2911260251
+    "log_price":13.1711535416
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132940132-04af8de9\/",
@@ -9585,7 +9585,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.4313798132
+    "log_price":13.7746885634
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132648801-57a07ffc\/",
@@ -9602,7 +9602,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.4832355088
+    "log_price":13.9978321148
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126137853-9e38435b\/",
@@ -9619,7 +9619,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4832355088
+    "log_price":13.9978321148
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134170556-c7f6a2bd\/",
@@ -9636,7 +9636,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.3512433129
+    "log_price":13.4298480772
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1090192670-79c64be8\/",
@@ -9653,7 +9653,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.3579796442
+    "log_price":13.458835614
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134144417-82fb1f10\/",
@@ -9670,7 +9670,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3221570059
+    "log_price":13.3046849342
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133953714-347fd9dc\/",
@@ -9687,7 +9687,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5335367694
+    "log_price":14.2142866779
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133209422-f7706f7b\/",
@@ -9704,7 +9704,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5173922822
+    "log_price":14.1448143051
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133435475-588cae79\/",
@@ -9721,7 +9721,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0791015625,
-    "scaled_log_price":0.3019366793
+    "log_price":13.2176735572
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131693211-d587281a\/",
@@ -9738,7 +9738,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.4240018235
+    "log_price":13.7429398651
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126627063-2f3748e2\/",
@@ -9755,7 +9755,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.09765625,
-    "scaled_log_price":0.3407579032
+    "log_price":13.3847276419
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134118740-b8d25acf\/",
@@ -9772,7 +9772,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5350912044
+    "log_price":14.2209756661
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128469868-b9be04f7\/",
@@ -9789,7 +9789,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.473345201
+    "log_price":13.9552725003
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132941409-801507f2\/",
@@ -9806,7 +9806,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.5018364061
+    "log_price":14.0778748224
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126708603-d5169c35\/",
@@ -9823,7 +9823,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.4408663205
+    "log_price":13.815510558
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133707068-6884e4f4\/",
@@ -9840,7 +9840,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5106067736
+    "log_price":14.1156151504
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132833185-00f68757\/",
@@ -9857,7 +9857,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5572400661
+    "log_price":14.3162858459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131323100-ead8fa9f\/",
@@ -9874,7 +9874,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.4408663205
+    "log_price":13.815510558
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1123509444-60c136d5\/",
@@ -9891,7 +9891,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.4163818898
+    "log_price":13.7101500423
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134108000-df800452\/",
@@ -9908,7 +9908,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5173922822
+    "log_price":14.1448143051
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133738897-b7e7534e\/",
@@ -9925,7 +9925,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5640407728
+    "log_price":14.3455504007
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1124577535-f56a45dc\/",
@@ -9942,7 +9942,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.4163818898
+    "log_price":13.7101500423
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133044231-7fb670bb\/",
@@ -9959,7 +9959,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.4832355088
+    "log_price":13.9978321148
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133075833-623294be\/",
@@ -9976,7 +9976,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3407579032
+    "log_price":13.3847276419
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1115595202-67d802b3\/",
@@ -9993,7 +9993,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.3579796442
+    "log_price":13.458835614
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130762127-76788c3b\/",
@@ -10010,7 +10010,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5500891278
+    "log_price":14.2855141872
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126790407-22e8535f\/",
@@ -10027,7 +10027,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5366353108
+    "log_price":14.2276202088
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133981904-d20e3c65\/",
@@ -10044,7 +10044,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0087890625,
-    "scaled_log_price":0.1187093146
+    "log_price":12.4292161968
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133781543-fcbbbbd5\/",
@@ -10061,7 +10061,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0625,
-    "scaled_log_price":0.3740127014
+    "log_price":13.5278284855
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130421478-7f7ad183\/",
@@ -10078,7 +10078,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5774603927
+    "log_price":14.4032972229
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133945768-35976a45\/",
@@ -10095,7 +10095,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5190581471
+    "log_price":14.1519827946
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128795276-4b1b0657\/",
@@ -10112,7 +10112,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0009765625,
-    "scaled_log_price":0.2524163203
+    "log_price":13.0045793417
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129004647-8f19fdee\/",
@@ -10129,7 +10129,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.4030990084
+    "log_price":13.6529916285
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131460095-56782f44\/",
@@ -10146,7 +10146,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5272129191
+    "log_price":14.1870741144
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134083443-a6979f3e\/",
@@ -10163,7 +10163,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1181640625,
-    "scaled_log_price":0.4030990084
+    "log_price":13.6529916285
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133947819-f54864f5\/",
@@ -10180,7 +10180,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.3860874775
+    "log_price":13.5797882244
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129260708-5534a8b3\/",
@@ -10197,7 +10197,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0791015625,
-    "scaled_log_price":0.2604110025
+    "log_price":13.0389817685
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133779328-497130ef\/",
@@ -10214,7 +10214,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5572400661
+    "log_price":14.3162858459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130436661-8c9cec8d\/",
@@ -10231,7 +10231,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5272129191
+    "log_price":14.1870741144
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132416515-351f4458\/",
@@ -10248,7 +10248,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.3975657195
+    "log_price":13.6291809798
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134157855-cdf2f98b\/",
@@ -10265,7 +10265,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5748638611
+    "log_price":14.3921239223
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130516248-6ea00e3e\/",
@@ -10282,7 +10282,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3221570059
+    "log_price":13.3046849342
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134005678-d7637975\/",
@@ -10299,7 +10299,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5106067736
+    "log_price":14.1156151504
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133057173-869c0d34\/",
@@ -10316,7 +10316,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5190581471
+    "log_price":14.1519827946
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127545054-362c3993\/",
@@ -10333,7 +10333,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.4030990084
+    "log_price":13.6529916285
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133314512-5fb7eaf0\/",
@@ -10350,7 +10350,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5106067736
+    "log_price":14.1156151504
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1115823121-96db0dd1\/",
@@ -10367,7 +10367,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.5350912044
+    "log_price":14.2209756661
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126830834-3ca91e07\/",
@@ -10384,7 +10384,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.5106067736
+    "log_price":14.1156151504
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134054755-cb009b8e\/",
@@ -10401,7 +10401,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.00390625,
-    "scaled_log_price":0.0549337162
+    "log_price":12.1547793511
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133287203-681df309\/",
@@ -10418,7 +10418,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2197265625,
-    "scaled_log_price":0.3443058676
+    "log_price":13.399995114
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130664635-90404d50\/",
@@ -10435,7 +10435,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.4832355088
+    "log_price":13.9978321148
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133769216-1a5aec83\/",
@@ -10452,7 +10452,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.4630151822
+    "log_price":13.9108207378
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1125286357-a0465f00\/",
@@ -10469,7 +10469,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.25,
-    "scaled_log_price":0.4927220161
+    "log_price":14.0386541093
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133980648-8b4b9cbc\/",
@@ -10486,7 +10486,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5350912044
+    "log_price":14.2209756661
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132465405-0199af89\/",
@@ -10503,7 +10503,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5272129191
+    "log_price":14.1870741144
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1125057063-fbdae473\/",
@@ -10520,7 +10520,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5350912044
+    "log_price":14.2209756661
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133964344-588ceaa6\/",
@@ -10537,7 +10537,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0625,
-    "scaled_log_price":0.2441974503
+    "log_price":12.9692121979
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128492845-9ebd8892\/",
@@ -10554,7 +10554,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5471659804
+    "log_price":14.272935405
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132673978-7d350357\/",
@@ -10571,7 +10571,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0,
-    "scaled_log_price":0.1365940722
+    "log_price":12.506177238
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133561006-6135de0f\/",
@@ -10588,7 +10588,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5018364061
+    "log_price":14.0778748224
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132275772-aa8314ed\/",
@@ -10605,7 +10605,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.377090722
+    "log_price":13.5410737123
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131736811-a7fc1115\/",
@@ -10622,7 +10622,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.528810088
+    "log_price":14.1939469937
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132092013-587888ba\/",
@@ -10639,7 +10639,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.3579796442
+    "log_price":13.458835614
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134118283-3690e63d\/",
@@ -10656,7 +10656,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3407579032
+    "log_price":13.3847276419
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133984081-71fef932\/",
@@ -10673,7 +10673,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0087890625,
-    "scaled_log_price":0.1278237047
+    "log_price":12.46843691
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132934438-814635fc\/",
@@ -10690,7 +10690,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.3831270915
+    "log_price":13.5670491987
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129212998-9bcbb7b9\/",
@@ -10707,7 +10707,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5499438405
+    "log_price":14.2848889918
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133682000-8d596944\/",
@@ -10724,7 +10724,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.310237103
+    "log_price":13.2533916398
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133925125-9d845204\/",
@@ -10741,7 +10741,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.4111594867
+    "log_price":13.6876771865
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126272170-9066dc88\/",
@@ -10758,7 +10758,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2197265625,
-    "scaled_log_price":0.4030990084
+    "log_price":13.6529916285
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127023256-b09c884d\/",
@@ -10775,7 +10775,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.3860874775
+    "log_price":13.5797882244
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131809194-13c73888\/",
@@ -10792,7 +10792,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0625,
-    "scaled_log_price":0.1969011412
+    "log_price":12.7656884335
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132817688-d13e55e6\/",
@@ -10809,7 +10809,7 @@
     "fuel_type_другое":1,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.473345201
+    "log_price":13.9552725003
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133419389-eb87f3b8\/",
@@ -10826,7 +10826,7 @@
     "fuel_type_другое":1,
     "body_type_седан":1,
     "scaled_year_sq":0.0087890625,
-    "scaled_log_price":0.0993324995
+    "log_price":12.3458345879
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134104947-e61d47ea\/",
@@ -10843,7 +10843,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5709138427
+    "log_price":14.3751263459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133958800-356c84e7\/",
@@ -10860,7 +10860,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.3407579032
+    "log_price":13.3847276419
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1124374941-745e161c\/",
@@ -10877,7 +10877,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.394748871
+    "log_price":13.6170596192
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126791115-18689e52\/",
@@ -10894,7 +10894,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5106067736
+    "log_price":14.1156151504
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131109818-a4ebd908\/",
@@ -10911,7 +10911,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5774603927
+    "log_price":14.4032972229
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133557191-8a849a29\/",
@@ -10928,7 +10928,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.00390625,
-    "scaled_log_price":0.1187093146
+    "log_price":12.4292161968
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128219992-fb395721\/",
@@ -10945,7 +10945,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3740127014
+    "log_price":13.5278284855
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134060652-1f3ba1c8\/",
@@ -10962,7 +10962,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5709138427
+    "log_price":14.3751263459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134185932-87217cfe\/",
@@ -10979,7 +10979,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5838275624
+    "log_price":14.4306961971
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133369602-48e22c29\/",
@@ -10996,7 +10996,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0,
-    "scaled_log_price":0.2553033868
+    "log_price":13.0170028617
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134149467-2dc0301b\/",
@@ -11013,7 +11013,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0625,
-    "scaled_log_price":0.3297769396
+    "log_price":13.337474757
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133130562-4630f595\/",
@@ -11030,7 +11030,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.19140625,
-    "scaled_log_price":0.452204528
+    "log_price":13.8643007221
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1123012241-85010889\/",
@@ -11047,7 +11047,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5350912044
+    "log_price":14.2209756661
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132570410-bac71989\/",
@@ -11064,7 +11064,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0087890625,
-    "scaled_log_price":0.1278237047
+    "log_price":12.46843691
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133952105-aa5be82d\/",
@@ -11081,7 +11081,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.4349827871
+    "log_price":13.79019275
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127249469-1fb2bcdf\/",
@@ -11098,7 +11098,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.4163818898
+    "log_price":13.7101500423
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132546844-70de8cc0\/",
@@ -11115,7 +11115,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5350910494
+    "log_price":14.2209749994
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129403202-881a2055\/",
@@ -11132,7 +11132,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5748638611
+    "log_price":14.3921239223
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133108536-6ef36bc0\/",
@@ -11149,7 +11149,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5272129191
+    "log_price":14.1870741144
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132255530-7cc6284e\/",
@@ -11166,7 +11166,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5813015902
+    "log_price":14.4198265248
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133884539-d47f5af9\/",
@@ -11183,7 +11183,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5500891278
+    "log_price":14.2855141872
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1096423970-81590342\/",
@@ -11200,7 +11200,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.5709138427
+    "log_price":14.3751263459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133263358-2f02a8e5\/",
@@ -11217,7 +11217,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2197265625,
-    "scaled_log_price":0.3240855411
+    "log_price":13.312983737
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127245183-4c9a0b5c\/",
@@ -11234,7 +11234,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.09765625,
-    "scaled_log_price":0.4408663205
+    "log_price":13.815510558
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130445830-634486d3\/",
@@ -11251,7 +11251,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.3579796442
+    "log_price":13.458835614
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131692628-9635c144\/",
@@ -11268,7 +11268,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0625,
-    "scaled_log_price":0.3061239486
+    "log_price":13.2356920627
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133994729-8b302d58\/",
@@ -11285,7 +11285,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0,
-    "scaled_log_price":0.2553033868
+    "log_price":13.0170028617
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131788127-e3242350\/",
@@ -11302,7 +11302,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5641775114
+    "log_price":14.346138809
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132457275-c523d444\/",
@@ -11319,7 +11319,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.09765625,
-    "scaled_log_price":0.3890106249
+    "log_price":13.5923670067
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133275104-c036aa8d\/",
@@ -11336,7 +11336,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.03515625,
-    "scaled_log_price":0.1571727445
+    "log_price":12.5947306353
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133946532-37143910\/",
@@ -11353,7 +11353,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0087890625,
-    "scaled_log_price":0.1450454456
+    "log_price":12.5425448822
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133008320-0541fe6d\/",
@@ -11370,7 +11370,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5272129191
+    "log_price":14.1870741144
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132848593-1af6a3b3\/",
@@ -11387,7 +11387,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.03515625,
-    "scaled_log_price":0.1491586001
+    "log_price":12.5602444593
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128823840-8e5f95ad\/",
@@ -11404,7 +11404,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5761657534
+    "log_price":14.3977261778
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127876661-51943ae1\/",
@@ -11421,7 +11421,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0087890625,
-    "scaled_log_price":0.1092228074
+    "log_price":12.3883942023
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130261195-50414c35\/",
@@ -11438,7 +11438,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.3546358864
+    "log_price":13.4444468766
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133645874-fb1b8a9c\/",
@@ -11455,7 +11455,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5190581471
+    "log_price":14.1519827946
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130613909-9e0e1e29\/",
@@ -11472,7 +11472,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0625,
-    "scaled_log_price":0.2703013103
+    "log_price":13.0815413829
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131647593-d7d8eb0e\/",
@@ -11489,7 +11489,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0791015625,
-    "scaled_log_price":0.3407579032
+    "log_price":13.3847276419
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132735340-cf5a828f\/",
@@ -11506,7 +11506,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0791015625,
-    "scaled_log_price":0.3019366793
+    "log_price":13.2176735572
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130915059-26aecf87\/",
@@ -11523,7 +11523,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2197265625,
-    "scaled_log_price":0.4058170179
+    "log_price":13.6646876682
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1128559989-7abc0ace\/",
@@ -11540,7 +11540,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0087890625,
-    "scaled_log_price":0.1626226093
+    "log_price":12.6181822964
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133943801-105aed0b\/",
@@ -11557,7 +11557,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5813015902
+    "log_price":14.4198265248
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132810356-5f6b9018\/",
@@ -11574,7 +11574,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.015625,
-    "scaled_log_price":0.1610785029
+    "log_price":12.6115377536
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134121710-f4f23948\/",
@@ -11591,7 +11591,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0244140625,
-    "scaled_log_price":0.2420205055
+    "log_price":12.9598444479
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133627874-38daec6e\/",
@@ -11608,7 +11608,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.5942667856
+    "log_price":14.4756178844
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1122449971-212bc617\/",
@@ -11625,7 +11625,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5641775114
+    "log_price":14.346138809
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133135442-f7801832\/",
@@ -11642,7 +11642,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3579796442
+    "log_price":13.458835614
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134030235-d2ca50d6\/",
@@ -11659,7 +11659,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5641775114
+    "log_price":14.346138809
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129969631-4879abab\/",
@@ -11676,7 +11676,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0009765625,
-    "scaled_log_price":0.1962362276
+    "log_price":12.7628272012
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132153500-ce19146a\/",
@@ -11693,7 +11693,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0244140625,
-    "scaled_log_price":0.2220485885
+    "log_price":12.8739020181
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132794167-7da61784\/",
@@ -11710,7 +11710,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.4408663205
+    "log_price":13.815510558
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127875842-44c71c8e\/",
@@ -11727,7 +11727,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5728972444
+    "log_price":14.3836612483
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132292341-0b97bca6\/",
@@ -11744,7 +11744,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5272129191
+    "log_price":14.1870741144
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129166912-d6d8a89b\/",
@@ -11761,7 +11761,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.09765625,
-    "scaled_log_price":0.3579796442
+    "log_price":13.458835614
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134077414-b12cc793\/",
@@ -11778,7 +11778,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0009765625,
-    "scaled_log_price":0.066853619
+    "log_price":12.2060726455
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132327044-f2677b69\/",
@@ -11795,7 +11795,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3019366793
+    "log_price":13.2176735572
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127006263-eda5b143\/",
@@ -11812,7 +11812,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.4289464176
+    "log_price":13.7642172636
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1123675444-3b2e0120\/",
@@ -11829,7 +11829,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5500891278
+    "log_price":14.2855141872
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131004682-47e207f8\/",
@@ -11846,7 +11846,7 @@
     "fuel_type_другое":0,
     "body_type_седан":0,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5500891278
+    "log_price":14.2855141872
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132857631-91f6df0f\/",
@@ -11863,7 +11863,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.5625,
-    "scaled_log_price":0.5774603927
+    "log_price":14.4032972229
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1132722228-3b2f6afe\/",
@@ -11880,7 +11880,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.03515625,
-    "scaled_log_price":0.140011592
+    "log_price":12.5208833854
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1131133257-0b82f1db\/",
@@ -11897,7 +11897,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.9384765625,
-    "scaled_log_price":1.0
+    "log_price":16.2215543593
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1130314898-284a1dc5\/",
@@ -11914,7 +11914,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5709138427
+    "log_price":14.3751263459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129634489-2717d0f7\/",
@@ -11931,7 +11931,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5600399453
+    "log_price":14.3283341844
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133840324-b58821aa\/",
@@ -11948,7 +11948,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.3645261942
+    "log_price":13.487006491
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1116324971-603d9831\/",
@@ -11965,7 +11965,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5709138427
+    "log_price":14.3751263459
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1134019400-6d11579d\/",
@@ -11982,7 +11982,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.2822265625,
-    "scaled_log_price":0.5838275624
+    "log_price":14.4306961971
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1126892975-f92623df\/",
@@ -11999,7 +11999,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.09765625,
-    "scaled_log_price":0.3740127014
+    "log_price":13.5278284855
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133055916-698fec24\/",
@@ -12016,7 +12016,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.47265625,
-    "scaled_log_price":0.6019448234
+    "log_price":14.5086577385
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1123140611-ae52c041\/",
@@ -12033,7 +12033,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.1650390625,
-    "scaled_log_price":0.3371549293
+    "log_price":13.3692234553
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1124870692-887b5eca\/",
@@ -12050,7 +12050,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.31640625,
-    "scaled_log_price":0.5245262784
+    "log_price":14.1755130594
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1123434848-baf11226\/",
@@ -12067,7 +12067,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.4306640625,
-    "scaled_log_price":0.5838275624
+    "log_price":14.4306961971
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1127399964-ecb68d70\/",
@@ -12084,7 +12084,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0009765625,
-    "scaled_log_price":0.1760764264
+    "log_price":12.6760762748
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1129185662-d614750c\/",
@@ -12101,7 +12101,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.390625,
-    "scaled_log_price":0.5427111381
+    "log_price":14.2537654889
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133029034-2ae4f641\/",
@@ -12118,7 +12118,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.140625,
-    "scaled_log_price":0.4832355088
+    "log_price":13.9978321148
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1133272614-3b6eb3d0\/",
@@ -12135,7 +12135,7 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.0625,
-    "scaled_log_price":0.2797878176
+    "log_price":13.1223633774
   },
   {
     "url":"https:\/\/auto.ru\/cars\/used\/sale\/audi\/a6\/1125486147-2586e067\/",
@@ -12152,6 +12152,6 @@
     "fuel_type_другое":0,
     "body_type_седан":1,
     "scaled_year_sq":0.3525390625,
-    "scaled_log_price":0.5641775114
+    "log_price":14.346138809
   }
 ]

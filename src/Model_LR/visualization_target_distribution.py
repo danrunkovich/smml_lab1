@@ -29,8 +29,7 @@ def main() -> None:
 
     mean_val = np.mean(y_data)
     std_val = np.std(y_data)
-    skewness = stats.skew(y_data)  # Асимметрия (для нормы = 0)
-    kurt = stats.kurtosis(y_data)  # Эксцесс / островершинность (для нормы = 0)
+
 
     # Тест Д'Агостино на нормальность
     stat_test, p_val_norm = stats.normaltest(y_data)
@@ -39,13 +38,7 @@ def main() -> None:
     print("ХАРАКТЕРИСТИКИ РАСПРЕДЕЛЕНИЯ ЦЕЛЕВОЙ ПЕРЕМЕННОЙ:")
     print(f"  Среднее значение:         {mean_val:.4f}")
     print(f"  Стандартное отклонение:   {std_val:.4f}")
-    print(
-        f"  Коэффициент асимметрии:   {skewness:+.4f} (при норме = 0, >0 правосторонняя, <0 левосторонняя)"
-    )
-    print(
-        f"  Коэффициент эксцесса:     {kurt:+.4f} (при норме = 0, >0 тяжелые хвосты)"
-    )
-    print(f"  Тест D'Agostino p-value:  {p_val_norm:.4e}")
+    '''    print(f"  Тест D'Agostino p-value:  {p_val_norm:.4e}")
     if p_val_norm < 0.05:
         print(
             "  ВЫВОД: Распределение статистически значимо ОТЛИЧАЕТСЯ от нормального (p < 0.05)."
@@ -53,7 +46,8 @@ def main() -> None:
     else:
         print(
             "  ВЫВОД: Нет оснований отвергать гипотезу о нормальности (p >= 0.05)."
-        )
+        )'''
+
     print("=" * 65)
 
 
@@ -93,7 +87,7 @@ def main() -> None:
     )
 
     ax1.set_title(
-        f"Гистограмма распределения\n(Асимметрия = {skewness:+.2f}, Эксцесс = {kurt:+.2f})",
+        f"Гистограмма распределения",
         fontsize=12,
     )
     ax1.set_xlabel(target_col)
@@ -113,7 +107,7 @@ def main() -> None:
     ax2.get_lines()[1].set_linewidth(2.2)
 
     ax2.set_title(
-        "Q-Q Plot (Quantile-Quantile)\nСравнение с нормальным распределением",
+        "Q-Q Plot",
         fontsize=12,
     )
     ax2.set_xlabel("Теоретические квантили нормального распределения")

@@ -1,0 +1,93 @@
+{
+  "metrics": {
+    "r_squared": 0.926971,
+    "r_squared_adj": 0.925722,
+    "condition_number": 7736.4687,
+    "ss_res": 34.51011,
+    "ss_tot": 472.550528,
+    "n_unique_points": 715,
+    "p_parameters": 13
+  },
+  "coefficients_table": [
+    {
+      "index": 0,
+      "feature": "x0_const",
+      "coefficient_b": 10.756512
+    },
+    {
+      "index": 1,
+      "feature": "scaled_year",
+      "coefficient_b": 2.227477
+    },
+    {
+      "index": 2,
+      "feature": "scaled_year_sq",
+      "coefficient_b": 0.790885
+    },
+    {
+      "index": 3,
+      "feature": "scaled_mileage",
+      "coefficient_b": 2.426053
+    },
+    {
+      "index": 4,
+      "feature": "scaled_power",
+      "coefficient_b": 0.138484
+    },
+    {
+      "index": 5,
+      "feature": "scaled_engine_vol",
+      "coefficient_b": 0.151817
+    },
+    {
+      "index": 6,
+      "feature": "drive_передний",
+      "coefficient_b": -0.161058
+    },
+    {
+      "index": 7,
+      "feature": "transmission_автомат",
+      "coefficient_b": -0.069862
+    },
+    {
+      "index": 8,
+      "feature": "transmission_механика",
+      "coefficient_b": 0.059299
+    },
+    {
+      "index": 9,
+      "feature": "transmission_робот",
+      "coefficient_b": -0.025612
+    },
+    {
+      "index": 10,
+      "feature": "fuel_type_бензин",
+      "coefficient_b": -0.124548
+    },
+    {
+      "index": 11,
+      "feature": "fuel_type_другое",
+      "coefficient_b": -0.163374
+    },
+    {
+      "index": 12,
+      "feature": "body_type_седан",
+      "coefficient_b": -0.015123
+    }
+  ],
+  "vector_B": [
+    10.756512,
+    2.227477,
+    0.790885,
+    2.426053,
+    0.138484,
+    0.151817,
+    -0.161058,
+    -0.069862,
+    0.059299,
+    -0.025612,
+    -0.124548,
+    -0.163374,
+    -0.015123
+  ]
+}

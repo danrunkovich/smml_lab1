@@ -29,28 +29,30 @@ def main() -> None:
 
     log_price = np.log(raw_price)
 
-    scaler = MinMaxScaler(feature_range=(0, 1))
+    '''    scaler = MinMaxScaler(feature_range=(0, 1))
     df["scaled_log_price"] = scaler.fit_transform(
         log_price.values.reshape(-1, 1)
-    ).flatten()
+    ).flatten()'''
+
+    df["log_price"] = log_price
 
     had_old_target = "scaled_price" in df.columns
     if had_old_target:
         old_corr_year = df["scaled_year"].corr(df["scaled_price"])
-        new_corr_year = df["scaled_year"].corr(df["scaled_log_price"])
+        new_corr_year = df["scaled_year"].corr(df["log_price"])
 
         old_corr_mileage = df["scaled_mileage"].corr(df["scaled_price"])
-        new_corr_mileage = df["scaled_mileage"].corr(df["scaled_log_price"])
+        new_corr_mileage = df["scaled_mileage"].corr(df["log_price"])
 
         print("\n" + "=" * 65)
-        print("СРАВНЕНИЕ КОРРЕЛЯЦИЙ (Старый scaled_price vs Новый scaled_log_price):")
+        print("СРАВНЕНИЕ КОРРЕЛЯЦИЙ (Старый scaled_price vs Новый log_price):")
         print(f"  scaled_year:    было {old_corr_year:+.4f}  -->  стало {new_corr_year:+.4f}")
         print(f"  scaled_mileage: было {old_corr_mileage:+.4f}  -->  стало {new_corr_mileage:+.4f}")
         print("=" * 65)
 
         df = df.drop(columns=["scaled_price"])
 
-    target_col = "scaled_log_price"
+    target_col = "log_price"
 
 
     output_json = "../../dataset/audi_a6_dataset_transformed_log_target.json"
