@@ -9,7 +9,7 @@ import statsmodels.api as sm
 
 
 def main() -> None:
-    json_path = "../../dataset/audi_a6_dataset_transformed_log_target.json"
+    json_path = "../../dataset/audi_a6_design_matrix.json"
     if not os.path.exists(json_path):
         print(f"ОШИБКА: Файл {json_path} не найден!")
         return
@@ -20,7 +20,7 @@ def main() -> None:
 
     df = pd.DataFrame(data)
 
-    target_col = "scaled_log_price"
+    target_col = "log_price"
     if target_col not in df.columns:
         print(f"ОШИБКА: Целевая колонка '{target_col}' отсутствует в файле!")
         return
@@ -45,18 +45,12 @@ def main() -> None:
 
 
     print("\n" + "=" * 85)
-    print("                РЕЗУЛЬТАТЫ ЛИНЕЙНОЙ РЕГРЕССИИ ДЛЯ scaled_log_price")
+    print("\t\t\tРЕЗУЛЬТАТЫ ЛИНЕЙНОЙ РЕГРЕССИИ ДЛЯ scaled_log_price")
     print("=" * 85)
 
     r2 = results.rsquared
-    r2_adj = results.rsquared_adj
-    f_stat = results.fvalue
-    f_pvalue = results.f_pvalue
 
     print(f"  Коэффициент детерминации R^2:            {r2:.4f} ({r2*100:.2f}%)")
-    print(f"  Скорректированный R^2 (adj):            {r2_adj:.4f} ({r2_adj*100:.2f}%)")
-    print(f"  F-статистика Фишера:                    {f_stat:.2f} (p-value: {f_pvalue:.2e})")
-    print(f"  Информационный критерий Акаике (AIC):   {results.aic:.2f}")
     print("-" * 85)
 
     print("ТАБЛИЦА ВЕСОВЫХ КОЭФФИЦИЕНТОВ МОДЕЛИ:")
@@ -75,14 +69,14 @@ def main() -> None:
     e_std = residuals.std()
     jb_stat, jb_pvalue = stats.jarque_bera(residuals)
 
-    print("АНАЛИЗ СТОЛБЦА ОШИБОК (ОСТАТКОВ e = y - y_hat):")
+    print("АНАЛИЗ СТОЛБЦА ОШИБОК (ОСТАТКОВ e = y - y_pred):")
     print(f"  Среднее значение остатков (Mean):       {e_mean:.6e} (теоретически строго 0)")
     print(f"  Стандартное отклонение ошибок (S_e):    {e_std:.4f}")
     print(f"  Тест Жака-Бера на нормальность ошибок:  JB = {jb_stat:.2f} (p-value: {jb_pvalue:.4e})")
     if jb_pvalue >= 0.05:
-        print("  ВЫВОД ПО ОШИБКАМ: Ошибки распределены НОРМАЛЬНО (H0 не отвергается, p >= 0.05)!")
+        print("  Вывод по тесту Жака-Бера: Ошибки распределены ТИПА нораально p >= 0.05)!")
     else:
-        print("  ВЫВОД ПО ОШИБКАМ: Присутствуют небольшие отклонения от строгого Гаусса (p < 0.05).")
+        print("  Вывод по тесту Жака-Бера: Присутствуют небольшие отклонения от строгого Гаусса (p < 0.05).")
     print("=" * 85)
 
 
@@ -90,7 +84,7 @@ def main() -> None:
     os.makedirs(plots_dir, exist_ok=True)
     sns.set_theme(style="whitegrid")
 
-    fig, axes = plt.subplots(2, 2, figsize=(16, 12))
+    fig, axes = plt.subplots(1, 3, figsize=(16, 12))
     fig.suptitle(
         "Диагностический анализ остатков линейной регрессии (Residual Analysis)",
         fontsize=16,
@@ -98,7 +92,7 @@ def main() -> None:
         y=0.99
     )
 
-    ax1 = axes[0, 0]
+    ax1 = axes[0]
     sns.scatterplot(
         x=y_pred,
         y=residuals,
@@ -109,11 +103,11 @@ def main() -> None:
         s=40
     )
     ax1.axhline(0, color="crimson", linestyle="--", linewidth=2.0)
-    ax1.set_title("1. Остатки от предсказанных значений (e vs y_hat)\n(Проверка линейности и гетероскедастичности)", fontsize=11, fontweight="bold")
-    ax1.set_xlabel("Предсказанные значения (y_hat)")
-    ax1.set_ylabel("Остатки (e = y - y_hat)")
+    ax1.set_title("1. Остатки от предсказанных значений (e vs y_pred)\n(Проверка линейности и гетероскедастичности)", fontsize=11, fontweight="bold")
+    ax1.set_xlabel("Предсказанные значения (y_pred)")
+    ax1.set_ylabel("Остатки (e = y - y_pred)")
 
-    ax2 = axes[0, 1]
+    ax2 = axes[1]
     stats.probplot(residuals, dist="norm", plot=ax2)
     ax2.get_lines()[0].set_markerfacecolor("#1f77b4")
     ax2.get_lines()[0].set_markeredgecolor("none")
@@ -124,7 +118,7 @@ def main() -> None:
     ax2.set_xlabel("Теоретические квантили N(0, 1)")
     ax2.set_ylabel("Фактические квантили остатков")
 
-    ax3 = axes[1, 0]
+    ax3 = axes[2]
     sns.histplot(
         residuals,
         kde=True,
@@ -144,36 +138,11 @@ def main() -> None:
         linewidth=2.0,
         label=f"Идеальная нормаль N(0, {e_std:.3f})"
     )
-    ax3.set_title("3. Плотность распределения остатков\n(Симметричность относительно нуля)", fontsize=11, fontweight="bold")
+    ax3.set_title("3. Плотность распределения остатков", fontsize=11, fontweight="bold")
     ax3.set_xlabel("Величина ошибки (e)")
     ax3.set_ylabel("Плотность вероятности")
     ax3.legend(loc="upper right")
 
-    # Scale-Location Plot (Стабильность разброса ошибок)
-    ax4 = axes[1, 1]
-    # Стандартизированные остатки: sqrt(|e / std|)
-    norm_residuals = np.sqrt(np.abs(residuals / e_std))
-    sns.scatterplot(
-        x=y_pred,
-        y=norm_residuals,
-        ax=ax4,
-        color="#2ca02c",
-        alpha=0.6,
-        edgecolor="none",
-        s=40
-    )
-    sns.regplot(
-        x=y_pred,
-        y=norm_residuals,
-        ax=ax4,
-        scatter=False,
-        ci=None,
-        color="crimson",
-        line_kws={"linewidth": 2.0}
-    )
-    ax4.set_title("4. Scale-Location Plot: sqrt(|e|) vs y_hat\n(Проверка постоянства дисперсии / гомоскедастичности)", fontsize=11, fontweight="bold")
-    ax4.set_xlabel("Предсказанные значения (y_hat)")
-    ax4.set_ylabel("sqrt(|Стандартизованный остаток|)")
 
     plt.tight_layout()
     plot_file = os.path.join(plots_dir, "regression_residuals_diagnostics.png")

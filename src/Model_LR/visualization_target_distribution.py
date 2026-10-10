@@ -8,7 +8,7 @@ import seaborn as sns
 
 
 def main() -> None:
-    json_path = "../../dataset/audi_a6_dataset_transformed_log_target.json"
+    json_path = "../../dataset/audi_a6_design_matrix.json"
     if not os.path.exists(json_path):
         print (f"ОШИБКА --> файл {json_path} не найден")
         return
@@ -19,7 +19,7 @@ def main() -> None:
 
     df = pd.DataFrame(data)
 
-    target_col = "scaled_log_price"
+    target_col = "log_price"
     if target_col not in df.columns:
         print(f"ОШИБКА: Колонка {target_col} отсутствует в файле!")
         return
@@ -31,22 +31,21 @@ def main() -> None:
     std_val = np.std(y_data)
 
 
-    # Тест Д'Агостино на нормальность
-    stat_test, p_val_norm = stats.normaltest(y_data)
+    jb_stat, jb_p_val = stats.jarque_bera(y_data)
 
     print("\n" + "=" * 65)
     print("ХАРАКТЕРИСТИКИ РАСПРЕДЕЛЕНИЯ ЦЕЛЕВОЙ ПЕРЕМЕННОЙ:")
     print(f"  Среднее значение:         {mean_val:.4f}")
     print(f"  Стандартное отклонение:   {std_val:.4f}")
-    '''    print(f"  Тест D'Agostino p-value:  {p_val_norm:.4e}")
-    if p_val_norm < 0.05:
+    print(f"  Тест Жарка-Бера p-value:  {jb_p_val:.4e}")
+    if jb_p_val < 0.05:
         print(
             "  ВЫВОД: Распределение статистически значимо ОТЛИЧАЕТСЯ от нормального (p < 0.05)."
         )
     else:
         print(
             "  ВЫВОД: Нет оснований отвергать гипотезу о нормальности (p >= 0.05)."
-        )'''
+        )
 
     print("=" * 65)
 

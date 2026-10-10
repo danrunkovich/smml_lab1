@@ -46,13 +46,8 @@ def main() -> None:
     print('-' * 20 + "ОТЧЕТ О ЛИНЕЙНОЙ РЕГРЕССИИ" + '-' * 20)
     # Метрики качества модели
     r2 = results.rsquared
-    r2_adj = results.rsquared_adj
-    f_stat = results.fvalue
-    f_pvalue = results.f_pvalue
 
     print(f"Коэффициент детерминации R^2: {r2:.4f} ({r2*100:.2f}%)")
-    print(f"Скорректированный R^2 (adj): {r2_adj:.4f} ({r2_adj*100:.2f}%)")
-    print(f"F-статистика Фишера: {f_stat:.2f} (p-value: {f_pvalue:.2e})")
     print("-" * 80)
 
     # Таблица коэффициентов модели
@@ -77,14 +72,6 @@ def main() -> None:
     print(f"Максимальная ошибка (перепрогноз): {residuals.max():.4f}")
     print("-" * 80)
 
-    # Пример первых 5 строк столбца ошибок
-    print("\nПример первых 5 строк (Реальная цена vs Прогноз vs Ошибка):")
-    preview = df[
-        ["scaled_price", "y_predicted", "residual_error"]
-    ].head(5)
-    preview.columns = ["Реальный Y", "Предсказанный Y_hat", "Ошибка e (y - y_hat)"]
-    print(preview.to_string())
-    print("=" * 80)
 
     # Сохраняем датасет с вычисленными ошибками для построения графиков
     output_with_residuals = "../../dataset/audi_a6_with_residuals.json"

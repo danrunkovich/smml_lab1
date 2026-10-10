@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import seaborn as sns
-from sklearn.preprocessing import MinMaxScaler
+#from sklearn.preprocessing import MinMaxScaler
 
 
 def main() -> None:
@@ -102,7 +102,7 @@ def main() -> None:
 
     fig, axes = plt.subplots(n_rows, n_cols, figsize=(22, 5 * n_rows))
     fig.suptitle(
-        f"Зависимость нового таргета ({target_col}) от всех признаков (МНК-тренд без CI)",
+        f"Зависимость нового таргета ({target_col}) от всех признаков",
         fontsize=16,
         fontweight="bold",
         y=0.99,
@@ -128,7 +128,7 @@ def main() -> None:
         ax.set_title(f"{feature}\n(r = {corr_val:+.3f})", fontsize=11)
         ax.set_xlabel(feature, fontsize=10)
         ax.set_ylabel(target_col, fontsize=10)
-        ax.set_ylim(-0.05, 1.05)
+        ax.set_ylim()
 
 
 

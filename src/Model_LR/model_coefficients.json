@@ -1,7 +1,6 @@
 {
   "metrics": {
     "r_squared": 0.926971,
-    "r_squared_adj": 0.925722,
     "condition_number": 7736.4687,
     "ss_res": 34.51011,
     "ss_tot": 472.550528,
