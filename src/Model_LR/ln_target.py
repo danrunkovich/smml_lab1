@@ -8,7 +8,7 @@ import seaborn as sns
 
 
 def main() -> None:
-    input_json = "../../dataset/audi_a6_dataset_transformed_linearized.json"
+    input_json = "../../dataset/audi_a6_dataset_transformed_without_mileage_linearized.json"
     if not os.path.exists(input_json):
         print(f"ОШИБКА: Файл {input_json} не найден!")
         return
@@ -41,13 +41,13 @@ def main() -> None:
         old_corr_year = df["scaled_year"].corr(df["scaled_price"])
         new_corr_year = df["scaled_year"].corr(df["log_price"])
 
-        old_corr_mileage = df["scaled_mileage"].corr(df["scaled_price"])
-        new_corr_mileage = df["scaled_mileage"].corr(df["log_price"])
+        #old_corr_mileage = df["scaled_mileage"].corr(df["scaled_price"])
+        #new_corr_mileage = df["scaled_mileage"].corr(df["log_price"])
 
         print("\n" + "=" * 65)
         print("СРАВНЕНИЕ КОРРЕЛЯЦИЙ (Старый scaled_price vs Новый log_price):")
         print(f"  scaled_year:    было {old_corr_year:+.4f}  -->  стало {new_corr_year:+.4f}")
-        print(f"  scaled_mileage: было {old_corr_mileage:+.4f}  -->  стало {new_corr_mileage:+.4f}")
+        #print(f"  scaled_mileage: было {old_corr_mileage:+.4f}  -->  стало {new_corr_mileage:+.4f}")
         print("=" * 65)
 
         df = df.drop(columns=["scaled_price"])
@@ -55,7 +55,7 @@ def main() -> None:
     target_col = "log_price"
 
 
-    output_json = "../../dataset/audi_a6_dataset_transformed_log_target.json"
+    output_json = "../../dataset/audi_a6_dataset_transformed_without_mileage_log_target.json"
     os.makedirs(os.path.dirname(output_json), exist_ok=True)
 
     df.to_json(output_json, orient="records", force_ascii=False, indent=2)
@@ -88,7 +88,7 @@ def main() -> None:
     )
     plt.tight_layout()
 
-    heatmap_file = os.path.join(plots_dir, "log_target_correlation_heatmap.png")
+    heatmap_file = os.path.join(plots_dir, "log_target_without_mileage_correlation_heatmap.png")
     plt.savefig(heatmap_file, dpi=300)
     plt.close()
     print(f"Матрица корреляций сохранена: {heatmap_file}")
@@ -143,7 +143,7 @@ def main() -> None:
     print(f"Сетка графиков зависимостей сохранена: {trends_file}")
 
     print("\n" + "=" * 65)
-    print("Готово! Новый таргет scaled_log_price успешно рассчитан и визуализирован.")
+    print("Готово! Новый таргет log_price успешно рассчитан и визуализирован.")
     print("=" * 65)
 
 

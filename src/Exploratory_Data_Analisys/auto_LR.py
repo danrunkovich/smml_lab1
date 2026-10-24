@@ -6,7 +6,7 @@ import statsmodels.api as sm
 
 
 def main() -> None:
-    json_path = "../../dataset/audi_a6_dataset_transformed_linearized.json"
+    json_path = "../../dataset/audi_a6_dataset_transformed_without_mileage_log_target.json"
     if not os.path.exists(json_path):
         print (f"Ошибка --> файл {json_path} не найден")
         return
@@ -17,8 +17,8 @@ def main() -> None:
 
     df = pd.DataFrame(data)
 
-    target_col = "scaled_price"
-    ignore_cols = {"url", "price_rub", target_col}
+    target_col = "log_price"
+    ignore_cols = {"url", "price_rub", target_col, "scaled_price"}
 
     feature_cols = [c for c in df.columns if c not in ignore_cols]
     X = df[feature_cols].copy()
@@ -74,7 +74,7 @@ def main() -> None:
 
 
     # Сохраняем датасет с вычисленными ошибками для построения графиков
-    output_with_residuals = "../../dataset/audi_a6_with_residuals.json"
+    output_with_residuals = "../../dataset/audi_a6_dataset_transformed_without_mileage_linearized_with_residuals.json"
     df.to_json(
         output_with_residuals, orient="records", force_ascii=False, indent=2
     )

@@ -5,7 +5,7 @@ import pandas as pd
 
 
 def main() -> None:
-    input_json = "../../dataset/audi_a6_design_matrix.json"
+    input_json = "../../dataset/audi_a6_dataset_transformed_without_mileage_log_target.json"
     if not os.path.exists(input_json):
         print(f"ОШИБКА: Файл {input_json} не найден!")
         return
@@ -15,6 +15,7 @@ def main() -> None:
         plan_data = json.load(f)
 
     df_plan = pd.DataFrame(plan_data)
+    df_plan.insert(0, "x0_const", 1.0)
 
 
     service_cols = {
@@ -28,6 +29,7 @@ def main() -> None:
     if "x0_const" in feature_cols:
         feature_cols.remove("x0_const")
         feature_cols = ["x0_const"] + feature_cols
+
 
     # Матрица планирования X: размерность (N x (p + 1))
     X = df_plan[feature_cols].values.astype(float)

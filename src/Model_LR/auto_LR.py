@@ -9,7 +9,7 @@ import statsmodels.api as sm
 
 
 def main() -> None:
-    json_path = "../../dataset/audi_a6_design_matrix.json"
+    json_path = "../../dataset/audi_a6_dataset_transformed_without_mileage_log_target.json"
     if not os.path.exists(json_path):
         print(f"ОШИБКА: Файл {json_path} не найден!")
         return
@@ -25,7 +25,7 @@ def main() -> None:
         print(f"ОШИБКА: Целевая колонка '{target_col}' отсутствует в файле!")
         return
 
-    ignore_cols = {"url", "price_rub", target_col}
+    ignore_cols = {"url", "price_rub", target_col, "scaled_price"}
     feature_cols = [c for c in df.columns if c not in ignore_cols]
 
     X = df[feature_cols].copy()
@@ -45,7 +45,7 @@ def main() -> None:
 
 
     print("\n" + "=" * 85)
-    print("\t\t\tРЕЗУЛЬТАТЫ ЛИНЕЙНОЙ РЕГРЕССИИ ДЛЯ scaled_log_price")
+    print("\t\t\tРЕЗУЛЬТАТЫ ЛИНЕЙНОЙ РЕГРЕССИИ ДЛЯ log_price")
     print("=" * 85)
 
     r2 = results.rsquared

@@ -9,7 +9,7 @@ from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
 
 
 def main() -> None:
-    json_path = "../../dataset/audi_a6_dataset_fuel_type_RLEncoded.json"
+    json_path = "../../dataset/audi_a6_dataset_deleted_fuel_type+mileage.json"
     if not os.path.exists(json_path):
         print(f"ОШИБКА: Файл {json_path} не найден!")
         return
@@ -23,7 +23,7 @@ def main() -> None:
     for col in ["drive", "transmission", "fuel_type", "body_type"]:
         df[col] = df[col].astype(str).str.strip().str.lower()
 
-    num_cols = ["year", "mileage_km", "power_hp", "engine_vol_l", "price_rub"]
+    num_cols = ["year", "power_hp", "engine_vol_l", "price_rub"]
     scaler = MinMaxScaler(feature_range=(0, 1))
 
     scaled_numeric = scaler.fit_transform(df[num_cols])
@@ -31,7 +31,7 @@ def main() -> None:
         scaled_numeric,
         columns=[
             "scaled_year",
-            "scaled_mileage",
+            #"scaled_mileage",
             "scaled_power",
             "scaled_engine_vol",
             "scaled_price",
@@ -41,7 +41,7 @@ def main() -> None:
     categories_spec = [
         ["полный", "передний"],
         ["вариатор", "автомат", "механика", "робот"],
-        ["дизель", "бензин", "другое"],
+        ["дизель", "бензин"],
         ["универсал", "седан"],
     ]
     cat_cols = ["drive", "transmission", "fuel_type", "body_type"]
@@ -60,7 +60,7 @@ def main() -> None:
 
     json_output_df = pd.concat([df[["url", "price_rub"]], active_transformed_df], axis=1)
 
-    output_json_path = "../../dataset/audi_a6_dataset_transformed.json"
+    output_json_path = "../../dataset/audi_a6_dataset_transformed_without_mileage.json"
     os.makedirs(os.path.dirname(output_json_path), exist_ok=True)
     json_output_df.to_json(output_json_path, orient="records", force_ascii=False, indent=2)
     print(f"Новый JSON (только активные n - 1 фичи) сохранен: {output_json_path}")
@@ -94,7 +94,7 @@ def main() -> None:
 
 
 
-    excel_cat_df = pd.DataFrame(index=df.index)
+    '''excel_cat_df = pd.DataFrame(index=df.index)
 
     for col_name, cats in zip(cat_cols, categories_spec):
         base_cat = cats[0]
@@ -133,7 +133,7 @@ def main() -> None:
     else:
         print(f"Внимание: Excel файл {excel_path} не найден. Проверьте путь к файлу")
 
-    print("\nвсе гуд пушка ракета торпеда")
+    print("\nвсе гуд пушка ракета торпеда")'''
 
 
 if __name__ == "__main__":
